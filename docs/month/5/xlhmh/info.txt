@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/1.png",
+		"desc": "西兰花维生素和膳食纤维含量丰富，对预防缺铁性贫血有一定的作用。另外，西兰花抗热性较强，加热煮熟后营养价值还是颇高，所以也是不错的辅食食材"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/2.png",
+		"desc": "食材： 西兰花2朵、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/3.png",
+		"desc": "步骤1：将西兰花掰开，放入淡盐水中浸泡15分钟，然后用清水清洗干净"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/4.png",
+		"desc": "步骤2：烧开水，放入西兰花，将西兰花焯烫熟，捞出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/5.png",
+		"desc": "步骤3：将焯熟的西兰花撕成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/6.png",
+		"desc": "步骤4：将西兰花放入搅拌机中，倒入少许温开水，搅打成菜泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/7.png",
+		"desc": "步骤5：将西兰花菜泥过滤网，取滤后的菜泥部分"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/8.png",
+		"desc": "步骤6：将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/9.png",
+		"desc": "步骤7：将西兰花菜泥倒入米糊中，搅拌均匀即可"
+	}]
+
+
+
+}

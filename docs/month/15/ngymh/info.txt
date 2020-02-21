@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/1.png",
+		"desc": "南瓜和玉米均含富含维生素E，有助于改善宝宝机体免疫力，对增强体质大有好处。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/2.png",
+		"desc": "食材：南瓜250克、玉米粒50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/3.png",
+		"desc": "做法：1、将南瓜去皮、去籽，洗干净后，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/4.png",
+		"desc": "2、将南瓜块放入蒸锅中，蒸熟；将蒸熟的南瓜取出，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/5.png",
+		"desc": "3、将玉米粒洗干净；烧开水，将玉米粒焯烫熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/6.png",
+		"desc": "4、将焯熟的玉米粒和蒸熟的南瓜倒入搅拌机中，倒入适量的温开水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/7.png",
+		"desc": "5、将食材搅打成细腻的糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh/8.png",
+		"desc": "6、将南瓜玉米糊过滤勺，取滤后的部分即可。"
+	}]
+
+
+
+}

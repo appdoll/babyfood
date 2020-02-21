@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/1.png",
+		"desc": "豌豆中富含人体所需的各种营养物质，尤其是含有优质蛋白质，可以提高宝宝的抗病能力。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/2.png",
+		"desc": "食材：大米50克、鳕鱼30克、豌豆50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/3.png",
+		"desc": "做法：1、大米放入清水中，浸泡1个小时；将浸泡好的大米放入锅中，按照大米：清水=1:5的比例，熬煮白米粥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/4.png",
+		"desc": "2、将鳕鱼洗干净，去掉鱼皮、鱼骨，然后将鱼肉剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/5.png",
+		"desc": "3、将豌豆洗干净，沥干水分；豌豆放入搅拌机中，倒入适量的清水，搅打成细腻的豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/6.png",
+		"desc": "4、大米熬煮成软绵的白米粥后，倒入鳕鱼碎；然后倒入豌豆泥，搅拌均匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/7.png",
+		"desc": "5、米粥换成小火，熬煮10分钟，一边煮一边搅拌。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz/8.png",
+		"desc": "6、将煮好的鳕鱼豌豆粥盛入碗中即可。"
+	}]
+
+
+
+}

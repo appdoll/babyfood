@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/1.png",
+		"desc": "玉米饼奶香浓郁，是孩子早餐或点心不错的选择。玉米面含有丰富的膳食纤维，能促进肠蠕动，有助于预防和缓解宝宝便秘"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/2.png",
+		"desc": "食材：鸡蛋1个、玉米面50克、配方奶或母乳50克、糖粉5克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/3.png",
+		"desc": "做法：1、将鸡蛋磕入碗中，打散成蛋液。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/4.png",
+		"desc": "2、往鸡蛋液中加入50克玉米面，搅拌均匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/5.png",
+		"desc": "3、再加入配方奶或母乳，然后倒入5克糖粉，搅拌均匀，使其呈面糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/6.png",
+		"desc": "4、平底锅用小火烧热，然后舀入一勺面糊入锅。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/7.png",
+		"desc": "5、将面糊摊成两面金黄的玉米饼。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb/8.png",
+		"desc": "6、将做好的玉米饼盛入盘中即可。"
+	}]
+
+
+
+}

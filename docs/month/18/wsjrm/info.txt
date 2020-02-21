@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/1.png",
+		"desc": "莴笋富含多种维生素和铁、钙、磷等营养元素，有助于强身健体，能促进骨骼正常发育。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/2.png",
+		"desc": "食材：莴笋50克、鸡胸肉50克、宝宝面条30克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/3.png",
+		"desc": "做法：1、将莴笋去皮，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/4.png",
+		"desc": "2、将莴笋放入搅拌机中，倒入适量温开水，搅打成菜泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/5.png",
+		"desc": "3、将莴笋泥过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/6.png",
+		"desc": "4、鸡胸肉洗干净，切成肉末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/7.png",
+		"desc": "5、宝宝面条掰成小段。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/8.png",
+		"desc": "6、锅中倒入清水，面条冷水入锅，将面条煮熟；接着放入鸡肉肉末；肉末煮熟后，倒入莴笋泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/9.png",
+		"desc": "7、将食材煮至软烂状态，即可盛入碗中。"
+	}]
+
+
+
+}

@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/1.png",
+		"desc": "绿豆含有丰富的营养元素如优质蛋白、不饱和脂肪酸、碳水化合物、矿物质、维生素等，具有清热去火的功效"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/2.png",
+		"desc": "食材：绿豆50克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/3.png",
+		"desc": "做法：1、将绿豆放入清水中，浸泡1个晚上的时间。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/4.png",
+		"desc": "2、将浸泡好的绿豆放入搅拌机中，倒入少许清水，搅打成细腻的糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/5.png",
+		"desc": "3、将绿豆糊倒入小锅中，加入适量清水，大火煮开后，换成小火，熬煮熟透"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/6.png",
+		"desc": "4、将煮熟的绿豆糊过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/7.png",
+		"desc": "5、将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/8.png",
+		"desc": "6、将绿豆糊调入米糊中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/9.png",
+		"desc": "7、搅拌均匀即可。"
+	}]
+
+
+
+}

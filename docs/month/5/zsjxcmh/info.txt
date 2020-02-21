@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/1.png",
+		"desc": "紫薯含有丰富的膳食纤维，利于通便，可以为宝宝缓解便秘"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/2.png",
+		"desc": "食材：紫薯30克、卷心菜2片、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/3.png",
+		"desc": "做法：1、将紫薯去皮，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/4.png",
+		"desc": "2、紫薯放入蒸锅中，蒸熟；将紫薯研磨成紫薯泥，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/5.png",
+		"desc": "3、卷心菜洗干净，焯烫熟后捞出；卷心菜切碎；卷心菜放入搅拌机中，倒入适量温开水，搅打成菜泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/6.png",
+		"desc": "4、将紫薯泥和菜泥过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/7.png",
+		"desc": "5、将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/8.png",
+		"desc": "6、将紫薯泥和菜泥拌入米糊中，搅拌均匀即可。"
+	}]
+
+
+
+}

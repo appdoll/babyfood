@@ -1,0 +1,36 @@
+{
+	"title1": "宝宝8个月辅食添加",
+	"desc1": "此时宝宝的消化酶已经可以充分消化蛋白质了，所需蛋白质含量为每千克体重每天需要2.3g，可以给宝宝多喂一点含蛋白质的奶制品，豆制品，鱼肉等。\n蛋白质：奶糊、蛋黄泥、鸡蛋羹、鱼肉糜。\n谷类和其他碳水化合物： 麦片、米片、粥、面条。",
+	"title2": "宝宝8个月营养提示",
+	"desc2": "宝宝看到大人吃东西时会流口水，而且会挥手表示要拿，或者在大人吃饭时哭叫不已，表示也想尝尝，这就到了宝宝需要添加辅食的重要时期。这个时期的宝宝要注意补充以下几种营养。\n热量：这个时期的宝宝的体重如果大幅度增加，80%是摄取了过多的热量，如果宝宝很瘦小或发育很慢，很可能是热量不足。\n蛋白质：肉、鸡、鱼以及豆腐里都含有优质蛋白质，可以把这些做成宝宝能吃的食物喂给宝宝，但一次不要太多，应给宝宝调剂着吃。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt.png",
+		"title": "蔬菜高汤",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/scgt/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz.png",
+		"title": "豌豆胡萝卜虾末粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg.png",
+		"title": "山药芡实羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/syqsg/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/xlhscjrm.png",
+		"title": "西蓝花生菜鸡肉面",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/xlhscjrm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/xhsmerm.png",
+		"title": "西红柿木耳软面",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/xhsmerm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/dfmzd.png",
+		"title": "豆腐末蒸蛋",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/dfmzd/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/nhhlbdhg.png",
+		"title": "奶香胡萝卜蛋黄羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/8/nhhlbdhg/info.txt"
+	}]
+
+}

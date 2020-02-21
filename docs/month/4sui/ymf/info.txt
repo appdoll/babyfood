@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/1.png",
+		"desc": "燕麦中富含非可溶性膳食纤维，有助于消化，能帮助宝宝预防和缓解便秘"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/2.png",
+		"desc": "准备食材：白米2.5汤匙、燕麦1/2汤匙、清水100毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/3.png",
+		"desc": "步骤1：将白米淘洗2-3次之后，放入清水中浸泡约1个小时"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/4.png",
+		"desc": "步骤2：将燕麦放入清水中浸泡半个小时"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/5.png",
+		"desc": "步骤3：将浸泡好的白米和燕麦片放入饭锅中，加入清水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/6.png",
+		"desc": "步骤4：将白米和燕麦煮成较软的燕麦饭即可"
+	}]
+
+
+
+}

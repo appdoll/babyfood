@@ -1,0 +1,21 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/1.png",
+		"desc": "甜蜜冬瓜汁富含维生素，帮助妈咪和宝宝清热解毒、利水消痰、除烦止渴。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/2.png",
+		"desc": "准备食材：冬瓜300g、凉开水300ml、柠檬1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/3.png",
+		"desc": "步骤1：将冬瓜去皮切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/4.png",
+		"desc": "步骤2：挤入柠檬汁，加水和糖浆用搅拌机打碎即可。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/5.png",
+		"desc": "步骤3：将柠檬切开，挤出柠檬汁。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/tmdgz/6.png",
+		"desc": "步骤4：将柠檬汁加入打好的冬瓜汁中即可。"
+	}]
+}

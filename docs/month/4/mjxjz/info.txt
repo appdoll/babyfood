@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/1.png",
+		"desc": "香蕉的糖分可迅速转化为葡萄糖被人体吸收，是一种快速的能量来源。同时，香蕉富含钾、膳食纤维、铁，有助于缓解便秘。而橘子富含维生素C，可以提高抵抗力。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/2.png",
+		"desc": "准备食材：香蕉1根、橘子1个、柠檬1片、水250毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/3.png",
+		"desc": "步骤1：将橘子去皮切块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/4.png",
+		"desc": "步骤2：香蕉切段备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/5.png",
+		"desc": "步骤3：将香蕉、橘子、柠檬水、水一起放入搅拌机中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/6.png",
+		"desc": "步骤4：启动搅拌机，将食材搅打成蜜橘香蕉汁。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mjxjz/7.png",
+		"desc": "步骤5：最后盛出一杯即可。"
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/1.png",
+		"desc": "紫薯含有丰富的膳食纤维，利于通便，可以为宝宝缓解便秘；小米易于食用也好消化，还可促进消化，有助于保护宝宝肠胃健康"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/2.png",
+		"desc": "食材：小米50克、紫薯50克、清水500毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/3.png",
+		"desc": "步骤1：将小米倒入水中，浸泡约1个小时"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/4.png",
+		"desc": "步骤2：浸泡好后再淘洗一次，倒入锅中，加入500毫升的清水，熬煮成软烂的小米粥备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/5.png",
+		"desc": "步骤3：紫薯去皮，切成薄片，蒸熟备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/6.png",
+		"desc": "步骤4：将煮熟的小米和紫薯片倒入搅拌机中，倒入适量的小米米汤"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/7.png",
+		"desc": "步骤5：将食材搅打成细腻的糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/8.png",
+		"desc": "步骤6：将搅打好的紫薯小米糊过滤勺，取滤后的部分即可"
+	}]
+
+
+
+}

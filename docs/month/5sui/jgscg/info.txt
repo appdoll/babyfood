@@ -1,0 +1,42 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/1.png",
+		"desc": "鸡肝含有丰富的铁，有助于预防缺铁性贫血，其所含的维生素A，对宝宝视力发育有益。和蔬菜搭配，又能均衡营养"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/2.png",
+		"desc": "食材： 鸡肝50克、鸡蛋1个、香菇1朵、豆腐1小块、胡萝卜1/3根、姜1片、淀粉少许、油少许"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/3.png",
+		"desc": "步骤1：将鸡肝洗干净，切薄片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/4.png",
+		"desc": "步骤2：放入清水中浸泡30分钟，期间换水2-3次，浸泡好后再冲洗一遍。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/5.png",
+		"desc": "步骤3：将鸡肝和姜片倒入锅中，加入适量清水，将鸡肝焯烫熟，捞出备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/6.png",
+		"desc": "步骤4：鸡蛋取蛋黄部分，搅打成蛋液。香菇洗干净（干香菇需提前泡软），去掉蒂头，切碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/7.png",
+		"desc": "步骤5：将胡萝卜去皮，洗干净后切成小块。将豆腐洗净切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/8.png",
+		"desc": "步骤6：锅中倒入少许油，加入鸡肝、胡萝卜和香菇末，煸炒出香味。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/9.png",
+		"desc": "步骤7：加入豆腐小块，然后倒入适量清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/10.png",
+		"desc": "步骤8：淀粉加少许水拌匀，等鸡肝蔬菜煮开后，加入水淀粉勾芡。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/11.png",
+		"desc": "步骤9：等汤汁粘稠时，倒入蛋黄液，拌匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/12.png",
+		"desc": "步骤10：蛋黄液煮至凝固时，即可盛入碗中。"
+	}]
+
+
+
+}

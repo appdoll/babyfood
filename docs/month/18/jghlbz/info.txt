@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/1.png",
+		"desc": "鸡肝中维生素A非常丰富，具有维持正常生长和生殖机能的作用。 鸡肝营养虽好，但不建议多吃，一周最多只能吃2次"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/2.png",
+		"desc": "准备食材：白米粥1小碗、鸡肝20克、胡萝卜1小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/3.png",
+		"desc": "步骤1：将胡萝卜去皮，洗干净之后，切成胡萝卜碎末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/4.png",
+		"desc": "步骤2：将鸡肝浸泡在清水中30分钟，期间更换2-3次水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/5.png",
+		"desc": "步骤3：将鸡肝放入蒸锅中蒸熟，然后取出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/6.png",
+		"desc": "步骤4：将鸡肝捣碎成鸡肝泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/7.png",
+		"desc": "步骤5：取一口小锅，倒入白米粥，将米粥煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/8.png",
+		"desc": "步骤6：然后放入胡萝卜碎末一起煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/9.png",
+		"desc": "步骤7：将胡萝卜煮软之后，倒入鸡肝泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/10.png",
+		"desc": "步骤8：将食材熬煮到软烂的状态，即可盛入碗中"
+	}]
+
+
+
+}

@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/1.png",
+		"desc": "鸡肝中的铁质丰富，适量吃点鸡肝有助于提高宝宝的免疫力。宝宝第一次食用鸡肝，家长要注意观察，看看宝宝是否有过敏等不适"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/2.png",
+		"desc": "食材： 鸡肝30克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/3.png",
+		"desc": "步骤1：将鸡肝洗干净，切成薄片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/4.png",
+		"desc": "步骤2：将鸡肝薄片放入清水中浸泡30分钟，期间换水2-3次。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/5.png",
+		"desc": "步骤3：将浸泡好的鸡肝放入锅中焯熟，捞出，放入搅拌机中搅打成细腻的泥状，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/6.png",
+		"desc": "步骤4：将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/7.png",
+		"desc": "步骤5：舀2宝宝勺的鸡肝泥，拌入米糊中，将鸡肝米糊搅拌均匀即可。"
+	}]
+
+
+
+}

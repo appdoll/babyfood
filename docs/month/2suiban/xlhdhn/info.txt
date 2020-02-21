@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/1.png",
+		"desc": "西兰花除了维生素和膳食纤维含量丰富之后，每100克西兰花就含有1.9毫克的铁，对预防缺铁性贫血有一定的作用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/2.png",
+		"desc": "食材：西兰花2小朵、鸡蛋1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/3.png",
+		"desc": "做法：1、将西兰花掰出2小朵，放入淡盐水中浸泡15分钟，然后用流水冲洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/4.png",
+		"desc": "2、烧开水，将西兰花放入锅中焯烫熟，然后捞出。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/5.png",
+		"desc": "3、将西兰花剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/6.png",
+		"desc": "4、剁碎的西兰花放入搅拌机中，倒入少许温开水；西兰花搅打成细腻的菜泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/7.png",
+		"desc": "5、烧开水，鸡蛋放入水中，煮熟至水煮蛋。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/8.png",
+		"desc": "6、将水煮蛋剥壳，对半切开，取蛋黄部分；将蛋黄研磨成细腻的蛋黄泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/9.png",
+		"desc": "7、将蛋黄泥拌入西兰花菜泥中，吃时拌匀即可。"
+	}]
+
+
+
+}

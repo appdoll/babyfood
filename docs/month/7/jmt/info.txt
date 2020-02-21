@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/1.png",
+		"desc": "焦米汤富含碳水化合物，经焦化后容易消化，不容易发生胀气，对缓解宝宝腹泻有一定的帮助"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/2.png",
+		"desc": "食材：白米半量米杯、清水适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/3.png",
+		"desc": "做法：1、将白米淘洗干净，沥干水分，铺开风干或烘干。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/4.png",
+		"desc": "2、烧热平底锅，将干燥的白米放入锅中，均匀加热翻炒。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/5.png",
+		"desc": "3、翻炒至白米有裂口、呈焦黄状态时，离火。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/6.png",
+		"desc": "4、将炒好的白米倒入锅中，按照大米：清水=1:7的比例，加入清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/7.png",
+		"desc": "5、大火煮开后，换成小火，撇去浮沫，熬煮约半个小时，到米汤浓稠。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt/8.png",
+		"desc": "6、取米汤部分盛入碗中即可。"
+	}]
+
+
+
+}

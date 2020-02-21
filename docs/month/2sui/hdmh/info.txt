@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/1.png",
+		"desc": "红豆含有丰富的纤维素，有助于促进宝宝肠胃消化，增进宝宝的食欲，预防和缓解便秘症状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/2.png",
+		"desc": "食材：红豆50克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/3.png",
+		"desc": "做法：1、将红豆放入清水中，浸泡一个晚上的时间。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/4.png",
+		"desc": "2、将浸泡好的红豆倒入搅拌机中，加入少许清水，搅打成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/5.png",
+		"desc": "3、将红豆糊倒入小锅中，加入清水，大火煮开后，换小火熬煮成红豆。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/6.png",
+		"desc": "4、将红豆糊过滤，取滤后的部分备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/7.png",
+		"desc": "5、将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/8.png",
+		"desc": "6、将红豆糊调入米糊中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/9.png",
+		"desc": "7、搅拌均匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/10.png",
+		"desc": "8、将红豆米糊盛入碗中即可。"
+	}]
+
+
+
+}

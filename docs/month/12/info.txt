@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝12个月辅食添加",
+	"desc1": "补充蛋白质时要注意奶类与固体食物的比例应为40：60，每天应该给宝宝提供乳类500毫升，如果是在一岁以前断奶，应当喝婴儿配方奶粉，逐渐增加喝牛奶的量。\n主食：软饭、烂面条、米粥、小馄饨。\n蛋白质：鸡蛋、牛奶、豆奶、大豆。\n蔬果：菠菜、白菜、萝卜、胡萝卜、西红柿。",
+	"title2": "宝宝12个月营养提示",
+	"desc2": "保证孩子基本营养成分由以下4种食物组成：肉、鱼、家禽、鸡蛋；奶制品；水果和蔬菜；谷类、马铃薯、大米、面包、面食。当你设计孩子的菜单时，要记住胆固醇和其他脂肪对孩子的生长发育非常重要，所以在这个时期不应该限制。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw.png",
+		"title": "山药清蒸小肉丸",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb.png",
+		"title": "土豆鳕鱼饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xywdz.png",
+		"title": "鳕鱼豌豆粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/xywdz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz.png",
+		"title": "油菜鸭肉粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/xhsbdf.png",
+		"title": "西红柿拌豆腐",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/xhsbdf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn.png",
+		"title": "芋头栗子泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/info.txt"
+	}]
+
+}

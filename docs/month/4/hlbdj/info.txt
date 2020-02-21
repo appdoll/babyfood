@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/1.png",
+		"desc": "豆浆含有铁、钙等矿物质，尤其是其所含的钙，虽不及豆腐，但比其他任何乳类都高。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/2.png",
+		"desc": "准备食材：黄豆适量、胡萝卜一根、糖适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/3.png",
+		"desc": "步骤1：准备好用料，包括泡好的黄豆（用清水泡6小时以上），胡萝卜一根。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/4.png",
+		"desc": "步骤2：将胡萝卜刨皮洗净切小丁。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/5.png",
+		"desc": "步骤3：和泡好的黄豆一起倒入豆浆机。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/6.png",
+		"desc": "步骤4：加入适量的水，选择程序-湿豆或者果蔬豆浆，这取决于你家的豆浆机具备何种功能。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbdj/7.png",
+		"desc": "步骤5：一般约15分钟左右，豆浆就煮好了，倒进滤杯滤出豆渣，再根据各人口味加入适量的糖，也可不加，因为胡萝卜有天然的甜味。"
+	}]
+
+
+
+}

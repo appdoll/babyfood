@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/1.png",
+		"desc": "鳕鱼肉味甘美、营养丰富，鱼肉中的蛋白质比三文鱼都高，和土豆、胡萝卜泥、米饭等一起做成米饼，好看又好吃"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/2.png",
+		"desc": "食材： 鳕鱼80克、土豆40克、胡萝卜40克、米饭1汤匙、鸡蛋1个、食用油适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/3.png",
+		"desc": "步骤1：将鳕鱼洗干净，去掉鱼皮、鱼骨，将鱼肉剁成肉泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/4.png",
+		"desc": "步骤2：将土豆去皮，洗干净后，切成小块，蒸熟，剁成泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/5.png",
+		"desc": "步骤3：将胡萝卜去皮，洗干净后，切成小块，蒸熟，剁成泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/6.png",
+		"desc": "步骤4：将鱼泥、土豆泥、胡萝卜泥和米饭倒入碗中，加入鸡蛋清，搅拌均匀，呈糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/7.png",
+		"desc": "步骤5：平底锅中倒入少量食用油，用小火烧到7成热，然后舀入一勺步骤4调好的糊。并将糊用小火摊成两面金黄的米饼。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/8.png",
+		"desc": "步骤6：将摊好的米饼摆入盘中即可。"
+	}]
+
+
+
+}

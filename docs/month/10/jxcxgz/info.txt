@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/1.png",
+		"desc": "卷心菜是含有丰富钾的碱性食物，而且钾的形态吸收堪比牛奶，所以是很适合的孩子的一种蔬菜"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/2.png",
+		"desc": "准备食材：大米粥1碗、卷心菜1片、香菇1个、水120毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/3.png",
+		"desc": "步骤1：卷心菜剥去外面两层，取里面菜叶1片"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/4.png",
+		"desc": "步骤2：卷心菜洗干净之后，切成菜末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/5.png",
+		"desc": "步骤3：香菇泡软，去掉蒂头"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/6.png",
+		"desc": "步骤4：香菇用开水稍微烫一下，然后捣碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/7.png",
+		"desc": "步骤5：米粥倒入锅中，加入水、香菇碎和卷心菜末，煮开之后用小火将食材熬煮软烂即可"
+	}]
+
+
+
+}

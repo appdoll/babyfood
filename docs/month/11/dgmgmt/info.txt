@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/1.png",
+		"desc": "蘑菇能够为宝宝补充蛋白质、脂肪、维生素等多种营养物质，而且蘑菇富含粗纤维，能够促进宝宝消化，增加食欲，增强免疫力"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/2.png",
+		"desc": "准备食材：宝宝面条1小把、冬瓜1小块、蘑菇1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/3.png",
+		"desc": "步骤1：将冬瓜去皮、去籽，洗干净之后，切成小丁状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/4.png",
+		"desc": "步骤2：将蘑菇洗干净，去掉蘑菇蒂，取蘑菇伞的部分，切成碎末状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/5.png",
+		"desc": "步骤3：将宝宝面条掰成小段"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/6.png",
+		"desc": "步骤4：将冬瓜和蘑菇一起放入蒸锅中，将食材蒸到软烂的状态"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/7.png",
+		"desc": "步骤5：取一口小锅，倒入适量清水，放入面条，将面条煮到软烂的状态"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/8.png",
+		"desc": "步骤5：将煮好的面条盛入碗中"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/9.png",
+		"desc": "步骤6：面条上铺上蒸软烂的冬瓜蘑菇末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/10.png",
+		"desc": "步骤7：搅拌均匀即可"
+	}]
+
+
+
+}

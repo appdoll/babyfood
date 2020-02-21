@@ -1,0 +1,36 @@
+{
+	"title1": "宝宝7个月辅食添加",
+	"desc1": "要进一步给宝宝添加辅食，添加的辅食品种要丰富多样，做到荤素搭配。在宝宝发育的高峰期，充足的钙可促进骨骼和牙齿的发育并抑制神经的异常兴奋。\n果汁：番茄汁、梨藕汁、菜末米汤。\n米糊：蛋黄泥、土豆泥、草莓薯泥、苹果麦片泥。\n蔬菜：胡萝卜、马铃薯、青豆、南瓜。",
+	"title2": "宝宝7个月营养提示",
+	"desc2": "宝宝长到7个月时，已经开始萌出乳牙，有了咀嚼能力，同时舌头也有了搅拌食物的功能，对饮食也越来越多地显示出个人的爱好，喂养上也随之有了一定的要求。宝宝可继续吃母乳，但是因为母乳中所含的营养成分，尤其是铁、维生素、钙等已不能满足宝宝生长发育的需要，乳类食品提供的热量与宝宝日益增加的运动量不相适应，不能满足宝宝的需要。\n这个时期婴儿的牙齿开始萌出，咀嚼食物的能力逐渐增强，消化功能也逐渐增强，因此可以在粥内加入少许碎菜叶、肉末等。但要注意，在给宝宝添加碎菜、肉末时，要从少量逐步递增。在出牙时期，还要继续给宝宝吃小饼干、烤馒头片等，让他练习咀嚼。。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/jmt.png",
+		"title": "焦米汤",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/jmt/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg.png",
+		"title": "香蕉芋头南瓜羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz.png",
+		"title": "豌豆牛肉末粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xhldhrm.png",
+		"title": "西葫芦蛋黄软面",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/xhldhrm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn.png",
+		"title": "芦笋土豆泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/lstdn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh.png",
+		"title": "鳕鱼泥迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/xynmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xhsrmdg.png",
+		"title": "西红柿肉末蛋羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/7/xhsrmdg/info.txt"
+	}]
+
+}

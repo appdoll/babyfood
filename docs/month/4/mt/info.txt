@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/1.png",
+		"desc": "把米汤作为辅食，让宝宝开始尝试，是因为米汤比较不容易引起孩子过敏"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/2.png",
+		"desc": "准备食材：白米15克、水150毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/3.png",
+		"desc": "步骤1：将白米洗干净之后，用清水浸泡约1个钟头。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/4.png",
+		"desc": "步骤2：白米放入锅中，加入水，大火煮沸腾。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/5.png",
+		"desc": "步骤3：换成小火，煮成稀饭。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/6.png",
+		"desc": "步骤4：中间不断用汤匙搅拌，避免粘锅"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/7.png",
+		"desc": "步骤5：煮到呈现勾芡黏稠的状态，就可以熄火。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/mt/8.png",
+		"desc": "步骤6：捞上层的米汤在锅中，可用汤匙给宝宝喂食。"
+	}]
+
+
+
+}

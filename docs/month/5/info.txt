@@ -1,0 +1,44 @@
+{
+	"title1": "宝宝5个月辅食添加",
+	"desc1": "辅食添加量从1—2勺开始，以后逐步增加。主要提供流质及泥糊状食品。依次提供米粉，蔬菜泥后，水果汁或泥(果汁先从兑水开始，然后再喝原汁)，接下来是果泥。\n米粉：喂蛋白至少要等到宝宝1岁以后，有过敏家族史的宝宝喂蛋黄的时间可以推迟到6个月以后。医生建议先从单纯的米粉开始以防过敏。\n水果：酸味重的水果如橙子、柠檬、猕猴桃先不要给宝宝吃。\n蔬菜泥：如胡萝卜、马铃薯、青豆、南瓜。",
+	"title2": "宝宝5个月营养提示",
+	"desc2": "有些宝宝长到5个月以后，开始对乳汁以外的食物感兴趣了，即使是5个月以前完全采用母乳喂养的宝宝，此时也会开始想吃母乳以外的食物了。比如：宝宝看到成人吃饭时会伸手去抓或嘴唇动、流口水，这时就可以考虑给宝宝添加一些辅食，为将来的断奶做准备了。\n5个月宝宝可加的辅食应以粗颗粒食物为好。因为此时的宝宝已经准备长牙，有的宝宝已经长出了一两个乳牙，可以通过咀嚼食物来训练宝宝的咀嚼能力。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh.png",
+		"title": "紫薯卷心菜迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/zsjxcmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/hlbtdxr.png",
+		"title": "胡萝卜土豆虾蓉",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/hlbtdxr/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh.png",
+		"title": "香蕉燕麦奶糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz.png",
+		"title": "苹果小米粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/yshlm.png",
+		"title": "鱼丝烩粟米",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/yshlm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xlhmh.png",
+		"title": "西蓝花迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/xlhmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh.png",
+		"title": "生菜迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/scmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/wdmh.png",
+		"title": "豌豆迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/wdmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh.png",
+		"title": "西芹迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/5/xqmh/info.txt"
+	}]
+
+}

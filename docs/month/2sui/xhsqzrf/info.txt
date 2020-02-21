@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/1.png",
+		"desc": "茄子较为寒凉，有助于清热解暑，对于容易长痱子的人，尤为适宜。不过，宝宝消化不良、腹泻时，则最好不要食用茄子"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/2.png",
+		"desc": "准备食材：西红柿1/4个、茄子1/3根、米饭1小碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/3.png",
+		"desc": "步骤1：将西红柿放入开水中烫1分钟，去掉皮，取1/4个，去掉籽"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/4.png",
+		"desc": "步骤2：将茄子洗干净，切条状，放入沸水中焯熟，捞出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/5.png",
+		"desc": "步骤3：将茄子肉刮出，备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/6.png",
+		"desc": "步骤4：锅中倒入适量的清水，放入西红柿块和茄子肉，煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/7.png",
+		"desc": "步骤5：然后倒入米饭，一边熬煮一边搅拌"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/8.png",
+		"desc": "步骤6：直到煮成软饭的状态即可"
+	}]
+
+
+
+}

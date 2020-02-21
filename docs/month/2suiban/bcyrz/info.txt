@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/1.png",
+		"desc": "大白菜中浓缩的维生素C，在高温下也不会被破坏，对感冒有较好的食疗功效。另外，白菜还含有植物纤维、铁和钙等。白菜中由于含有一种叫胱氨酸的氨基酸，所以用白菜煮米粥的时候，会散发浓郁的味道，有助开胃"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/2.png",
+		"desc": "准备食材：白菜1大片、鸭肉20克、白米粥1小碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/3.png",
+		"desc": "步骤1：将鸭肉洗干净，剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/4.png",
+		"desc": "步骤2：将鸭肉蒸熟之后，研磨成更细腻的鸭肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/5.png",
+		"desc": "步骤3：将白菜洗干净，取软嫩的叶子部分剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/6.png",
+		"desc": "步骤4：取一口小锅，倒入白米粥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/7.png",
+		"desc": "步骤5：米粥煮开之后，倒入白菜末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/8.png",
+		"desc": "步骤6：再次煮开，倒入鸭肉末，换成小火"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/9.png",
+		"desc": "步骤7：等食材熬煮到软烂的状态，即可关火，盛入碗中"
+	}]
+
+
+
+}

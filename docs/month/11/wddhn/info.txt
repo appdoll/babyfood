@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/1.png",
+		"desc": "豌豆富含蛋白质、维生素A和膳食纤维，能促进肠道蠕动，起到预防和缓解便秘的作用。不过豌豆质感较硬，烹调的时候要彻底煮软烂。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/2.png",
+		"desc": "食材：豌豆50克、鸡蛋1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/3.png",
+		"desc": "做法：1、将豌豆洗干净；锅中烧开水，放入豌豆煮至软烂后，捞出；将豌豆倒入搅拌机中，倒入适量温开水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/4.png",
+		"desc": "2、将豌豆搅打成细腻的泥状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/5.png",
+		"desc": "3、将豌豆过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/6.png",
+		"desc": "4、鸡蛋放入沸水中，煮熟成白煮蛋。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/7.png",
+		"desc": "5、将鸡蛋剥蛋壳，对半切开，取蛋黄部分，压成细腻的蛋黄泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn/8.png",
+		"desc": "6、将蛋黄泥拌入豌豆泥中，喂养时搅拌均匀即可。"
+	}]
+
+
+
+}

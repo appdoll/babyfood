@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/1.png",
+		"desc": "鳕鱼肉质鲜美、细嫩，鱼刺少，且富含维生素A和维生素D，是适合作为鱼肉类辅食的食材之一"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/2.png",
+		"desc": "食材： 鳕鱼30克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/3.png",
+		"desc": "步骤1：将鳕鱼洗干净，去掉鱼皮、鱼骨"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/4.png",
+		"desc": "步骤2：将鳕鱼放入蒸锅中蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/5.png",
+		"desc": "步骤3：将蒸熟的鳕鱼取出，剁成肉泥，再仔细检查是否有鱼骨"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/6.png",
+		"desc": "步骤4：将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xynmh/7.png",
+		"desc": "步骤5：将制作好的鱼泥倒入米糊中，搅拌均匀即可"
+	}]
+
+
+
+}

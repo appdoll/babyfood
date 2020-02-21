@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝3岁辅食添加",
+	"desc1": "3岁宝宝正是长身体的时候，为了维持宝宝的正常生理功能和满足生长发育的需要，每日必须供给宝宝六种人体不可缺少的营养素，例如蛋白质、脂肪、碳水化合物、矿物质、维生素和水。",
+	"title2": "宝宝3岁营养提示",
+	"desc2": "这个年龄的宝宝有可能患上便秘，这有可能是因为宝宝吃了太多的奶制品，而水果、蔬菜和水的摄入相对不足。如果学龄前的儿童排便的时候感觉疼痛，大便干结或有一到两天的时间没有排便，立刻改变他的饮食结构。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/nghlbrnmh.png",
+		"title": "南瓜胡萝卜肉泥米糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/nghlbrnmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn.png",
+		"title": "胡萝卜豌豆泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/yeh.png",
+		"title": "银耳糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/yeh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/bcrmm.png",
+		"title": "菠菜肉末粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/bcrmm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/lyxtcz.png",
+		"title": "鲈鱼小棠菜粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/lyxtcz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/fqyn.png",
+		"title": "番茄鱼泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/3sui/fqyn/info.txt"
+	}]
+
+}

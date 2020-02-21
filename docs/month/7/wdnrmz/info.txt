@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/1.png",
+		"desc": "牛肉的营养价值居各种肉类的首位，能增长体力，牛肉可以为人体提供铁和锌，有助于提高免疫系统功能"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/2.png",
+		"desc": "食材：豌豆50克、牛肉瘦肉30克、白米粥1碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/3.png",
+		"desc": "做法：1、将豌豆淘洗干净，沥干水分；锅中烧开水，将洗好的豌豆倒入锅中，煮烂后捞出。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/4.png",
+		"desc": "2、将焯熟的豌豆倒入搅拌机中，倒入少许开水；将豌豆搅打成细腻的豌豆泥；将豌豆泥过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/5.png",
+		"desc": "3、将牛肉稍微浸泡在清水中，然后用流水冲洗掉血水；将牛肉剁碎成肉末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/6.png",
+		"desc": "4、白米粥倒入碗中，煮开后倒入牛肉肉末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/7.png",
+		"desc": "5、牛肉煮变色后，调入豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/wdnrmz/8.png",
+		"desc": "6、将食材熬煮至软烂状态，即可盛入碗中。"
+	}]
+
+
+
+}

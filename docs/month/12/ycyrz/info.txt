@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/1.png",
+		"desc": "油菜含有大量钙质和维生素C，有助于提高身体免疫力，鸭肉则是重要的优质蛋白质来源"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/2.png",
+		"desc": "准备食材：白米粥1碗、油菜2棵、鸭肉20克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/3.png",
+		"desc": "步骤1：将鸭肉洗干净，剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/4.png",
+		"desc": "步骤2：将鸭肉蒸熟，研磨成鸭肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/5.png",
+		"desc": "步骤3：将油菜洗干净，取较嫩的菜叶，然后剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/6.png",
+		"desc": "步骤4：将白米粥倒入碗中，煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/7.png",
+		"desc": "步骤5：放入油菜末，再次煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/8.png",
+		"desc": "步骤6：然后放入鸭肉泥，用小火熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ycyrz/9.png",
+		"desc": "步骤7：当煮到食材软烂的时候，将油菜鸭肉面盛入碗中即可"
+	}]
+
+
+
+}

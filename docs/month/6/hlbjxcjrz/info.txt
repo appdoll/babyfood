@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/1.png",
+		"desc": "卷心菜营养丰富，含有微量元素硫、氯、碘及抗溃疡因子，同时可以增加饱足感"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/2.png",
+		"desc": "食材：胡萝卜1/3根、卷心菜2片、鸡肉50克、白米粥1碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/3.png",
+		"desc": "做法：1、胡萝卜去皮，洗干净后，切小丁。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/4.png",
+		"desc": "2、卷心菜洗干净，切碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/5.png",
+		"desc": "3、鸡肉洗干净，剁成肉末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/6.png",
+		"desc": "4、锅中倒入白米粥，煮开；将鸡肉末和胡萝卜倒入锅中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/7.png",
+		"desc": "5、鸡肉末煮到变色后，倒入卷心菜碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/8.png",
+		"desc": "6、将食材熬煮软烂之后，盛入碗中即可。"
+	}]
+
+
+
+}

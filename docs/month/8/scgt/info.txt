@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/1.png",
+		"desc": "蔬菜高汤做法简单，营养丰富，口味极佳，非常适合宝宝。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/2.png",
+		"desc": "食材：苹果1个、洋葱1/2个、胡萝卜1根、卷心菜1/4个、玉米1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/3.png",
+		"desc": "做法：1、洋葱洗干净，切块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/4.png",
+		"desc": "2、胡萝卜削皮，切滚刀块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/5.png",
+		"desc": "3、玉米剥去皮，洗干净，切块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/6.png",
+		"desc": "4、卷心菜洗干净，切大片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/7.png",
+		"desc": "5、苹果去皮，切块，去掉籽。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/8.png",
+		"desc": "6、将果蔬放入锅中，加入八分满的清水，大火烧开，用小火熬煮3小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/9.png",
+		"desc": "7、将煮好的蔬菜高汤过滤掉汤渣，取汤水即可。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/scgt/10.png",
+		"desc": "8、若要保存，可以放凉后，密封冷藏起来。"
+	}]
+
+
+
+}

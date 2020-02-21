@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/1.png",
+		"desc": "芦笋含有丰富的胡萝卜素、B族维生素和维生素C，而且比番茄、胡萝卜所含的维生素含量都要高出很多。除此之外，还含有蛋白质和钙、铁、钾、磷等矿物质"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/2.png",
+		"desc": "食材： 芦笋5根、土豆100克、温开水适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/3.png",
+		"desc": "步骤1：将土豆洗干净，去皮，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/4.png",
+		"desc": "步骤2：将芦笋洗干净，沥干水分，去掉较硬的部分，剩余的芦笋切丁"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/5.png",
+		"desc": "步骤3：将芦笋丁和土豆小块放入盘中"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/6.png",
+		"desc": "步骤4：将芦笋和土豆放入蒸锅中，蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/7.png",
+		"desc": "步骤5：取出蒸好的芦笋土豆，稍微放凉，然后倒入搅拌机中，加入适量温开水，将食材搅打成细腻的糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/lstdn/8.png",
+		"desc": "步骤6：将搅打好的芦笋土豆泥倒入碗中即可"
+	}]
+
+
+
+}

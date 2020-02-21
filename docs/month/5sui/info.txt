@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝5岁辅食添加",
+	"desc1": "科学合理的食谱对5岁宝宝的成长发育非常有帮助，这时期可给宝宝提供更多更丰富的食品种类，可以给宝宝尝试很多大人吃的食物了。选择那些无农药污染、无霉变、硝酸盐含量低，且新鲜干净的食物，如米、面、豆类、芹菜、葱、蒜、韭菜、土豆、萝卜、地瓜等。",
+	"title2": "宝宝5岁营养提示",
+	"desc2": "而且，此时要满足宝宝长高的营养需求，维生素D是帮助钙、磷被人体吸收及利用的重要物质。因此对幼儿骨骼的成长特别重要。牛奶、沙丁鱼、鲑鱼、鲔鱼、小鱼干、蛋黄、香菇等富含维生素D，宝宝可以多吃。\n除了摄取足够的维生素D之外，适度的到户外晒晒阳光，吸收阳光自行合成维生素D，也是幼儿很好的来源。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgbz.png",
+		"title": "鸡肝白粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/jgbz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg.png",
+		"title": "鸡肝蔬菜羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/jgscg/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/xhldhrm.png",
+		"title": "西葫芦蛋黄软面",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/xhldhrm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf.png",
+		"title": "牛肉香菇油菜饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf.png",
+		"title": "南瓜软饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf.png",
+		"title": "口蘑牛肉软饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/info.txt"
+	}]
+
+}

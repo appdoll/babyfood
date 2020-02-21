@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/1.png",
+		"desc": "口蘑中含有很多的膳食纤维，能提高胃肠的活动能力，增加宝宝的食欲"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/2.png",
+		"desc": "准备食材：米饭1/3碗、口蘑2个、牛肉1汤匙、肉汤120毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/3.png",
+		"desc": "步骤1：将牛肉在水中浸泡一会儿，去掉血水，然后放入沸水中煮熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/4.png",
+		"desc": "步骤2：将煮熟的牛肉取出，顺着牛肉纹理撕开，然后切碎，取2汤匙的量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/5.png",
+		"desc": "步骤3：将口蘑洗干净，去掉蘑菇蒂，将口蘑盖切成碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/6.png",
+		"desc": "步骤4：取一口小锅，先倒入一半的肉汤，放入口蘑碎，将口蘑煮熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/7.png",
+		"desc": "步骤5：换成中火，倒入剩下的肉汤和米饭，继续熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/8.png",
+		"desc": "步骤6：煮开的时候，放入牛肉碎，一边熬煮一边搅拌"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/kmnrrf/9.png",
+		"desc": "步骤7：等到食材煮到软烂的状态，即可盛入碗中"
+	}]
+
+
+
+}

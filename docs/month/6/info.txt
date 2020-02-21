@@ -1,0 +1,36 @@
+{
+	"title1": "宝宝6个月辅食添加",
+	"desc1": "6个月内每日上午添加一顿辅食已足够。米粉就当做一顿主食，在添加米粉的同时，增加瘦肉糜、猪肝泥、鸡肝泥等含铁丰富又容易吸收的食物，直接调入米粉。\n米粉：瘦肉糜、鱼泥、猪肝泥、鸡肝泥。\n菜泥或果泥：每天添加辅食的次数从一次增加到两次。辅食添加的时间与小儿吃奶在同一时间，菜泥、果泥糊类食品最好在吃完奶之后立即添加。\n果汁：菜汁、梨藕汁、苹果汁、冬瓜汁。",
+	"title2": "宝宝6个月营养提示",
+	"desc2": "本月在辅食上可以增加一些鱼类，如平鱼、黄鱼、巴鱼等，此类鱼肉多，刺少，便于加工成肉糜。鱼肉含磷脂、蛋白质很高，并且细嫩易消化，适合婴儿发育的营养需要，但是一定要选购新鲜的鱼。在喂养时间上，仍可按上月的安排进行。只是在辅食添加种类与量上略多一些。\n在给宝宝添加辅食的时候，要遵循以下的原则：由少量开始，逐渐增多;辅食要由稀到干，由细到粗，由软到硬，由淡到浓，循序渐进逐步增加，要使孩子有一段逐渐适应的过程;要根据季节和孩子身体状态来添加辅食，并要一样一样地增加，逐渐到多种;辅食宜在孩子吃奶前饥饿时添加;要注意卫生，婴儿餐具要固定专用;喂辅食时，要锻炼孩子逐步适应使用餐具。家长在喂婴儿辅食时，要有耐心。。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm.png",
+		"title": "藕泥虾面",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/onxm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz.png",
+		"title": "胡萝卜卷心菜鸡肉粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/hlbjxcjrz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt.png",
+		"title": "鸡肉高汤",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/jrgt/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/ymb.png",
+		"title": "玉米饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/ymb/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jxcxgz.png",
+		"title": "卷心菜香菇粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/jxcxgz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn.png",
+		"title": "西红柿猪肝泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn.png",
+		"title": "胡萝卜西红柿泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/info.txt"
+	}]
+
+}

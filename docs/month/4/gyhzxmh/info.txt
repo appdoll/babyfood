@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/1.png",
+		"desc": "蛋黄中含有丰富的脂肪，包括中性脂肪、卵磷脂、胆固醇等；也含有丰富的钙、磷、铁等矿物质；同时含有丰富的蛋白质，而且是高生物价的蛋白质；而且含有丰富的维生素，其中以维生素A、维生素D、维生素B最多"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/2.png",
+		"desc": "准备食材：小米1杯，桂圆肉10粒，金丝小枣1小把"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/3.png",
+		"desc": "步骤1：小米洗净，清水浸泡2小时以上。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/4.png",
+		"desc": "步骤2：桂圆肉洗净，清水泡透，红枣洗净，清水泡透，红枣去核"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/5.png",
+		"desc": "步骤3：小米连同泡米的水一起倒入豆浆机，桂圆肉连同泡桂圆的水一起倒进豆浆机，加入去核的红枣，同时加水到豆浆机上下水位之间。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/fhnh/6.png",
+		"desc": "步骤4：选择豆浆功能或米糊功能，按下，待提示完成即可"
+	}]
+
+
+
+}

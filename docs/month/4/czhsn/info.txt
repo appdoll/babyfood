@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/1.png",
+		"desc": "橙汁红薯泥作为辅食是很好的选择，红薯含有膳食纤维、胡萝卜素、维生素A、B、C、E及钾、铁、铜、硒、钙等，营养价值很高，是世界卫生组织评选出来的“十大最佳蔬菜”的冠军，多吃橙汁红薯泥可以有效补充人体的膳食纤维和维生素"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/2.png",
+		"desc": "准备食材：红薯30g、鲜橙半个、温开水50毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/3.png",
+		"desc": "步骤1：将红薯带皮蒸熟，取中间的部份。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/4.png",
+		"desc": "步骤2：红薯肉放在茶滤勺中，用刮板或小勺一边刮捻一边同时加开水，捻成泥并压滤到滤勺下的小碗中，用小勺刮下粘在滤勺底下的薯泥；弃掉滤勺中的粗纤维"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/5.png",
+		"desc": "步骤3：把橙子对半切开。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/6.png",
+		"desc": "步骤4：用消毒过的榨汁器榨取甜橙汁约2汤匙(30ml)，将鲜榨的橙汁轻轻倒入土豆泥中搅匀"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/7.png",
+		"desc": "步骤5：若汁中有微量果肉，可用消毒过的滤勺滤一下。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/czhsn/8.png",
+		"desc": "步骤6：做好的糊糊，应该可以从勺子中轻易的倾倒出为宜。"
+	}]
+
+
+
+}

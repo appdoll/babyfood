@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/1.png",
+		"desc": "这道枣泥南瓜羹富含各种矿物质和维生素，营养价值高。而且红枣和南瓜本身略带甜味，从口味上，孩子也比较容易接受。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/2.png",
+		"desc": "食材：南瓜100克、红枣10颗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/3.png",
+		"desc": "做法：1、将红枣洗干净后，用热水泡发。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/4.png",
+		"desc": "2、将泡发好的红枣去皮、去核。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/5.png",
+		"desc": "3、将红枣放入搅拌机中，倒入少量清水，搅打成红枣泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/6.png",
+		"desc": "4、南瓜去皮、去籽，切成片；将南瓜片放入蒸锅中，蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/7.png",
+		"desc": "5、将南瓜片放入搅拌机中，倒入适量清水，搅打成细腻的南瓜泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg/8.png",
+		"desc": "6、将南瓜泥和红枣泥倒入小锅中，加入少量清水；将南瓜红枣泥煮开，拌匀，即可盛入碗中。"
+	}]
+
+
+
+}

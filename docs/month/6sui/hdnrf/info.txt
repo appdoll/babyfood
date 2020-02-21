@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/1.png",
+		"desc": "红豆含有丰富的营养元素如优质蛋白、不饱和脂肪酸、纤维素、各种维生素、无机盐等，宝宝适当进食，有助于宝宝补充营养元素，提高自身免疫力，增强抵抗力，保持健康发育"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/2.png",
+		"desc": "准备食材：米饭1/3碗、红豆1汤匙、牛肉末1汤匙、水100毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/3.png",
+		"desc": "步骤1：红豆提前浸泡水中，泡约一个上午的时间"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/4.png",
+		"desc": "步骤2：红豆放入锅中，加入适量的清水，炖烂，然后取1汤匙的量，研磨成泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/5.png",
+		"desc": "步骤3：锅中倒入50毫升清水，将牛肉稍微煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/6.png",
+		"desc": "步骤4：然后倒入剩下的清水和米饭，一起熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/7.png",
+		"desc": "步骤5：将米饭煮软之后，盛出，舀入红豆泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/8.png",
+		"desc": "步骤6：吃时拌匀即可"
+	}]
+
+
+
+}

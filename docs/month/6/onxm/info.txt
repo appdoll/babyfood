@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/1.png",
+		"desc": "莲藕富含铁、钙等微量元素，植物蛋白质、维生素以及淀粉含量也很丰富"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/2.png",
+		"desc": "食材：莲藕50克、宝宝面条20克、虾2只"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/3.png",
+		"desc": "做法：1、将莲藕洗干净，去皮，切成小块；然后将莲藕放入沸水中焯烫熟；虾去掉虾头、虾壳，挑掉虾线，洗干净，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/4.png",
+		"desc": "2、将莲藕放入搅拌机中，搅打成藕泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/5.png",
+		"desc": "3、宝宝面条掰成小段；取一口小锅，倒入适量清水，面条冷水下锅。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/6.png",
+		"desc": "4、面条煮开之后，放入虾碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/7.png",
+		"desc": "5、虾煮到变色时，调入莲藕泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/onxm/8.png",
+		"desc": "6、再煮开一次，将藕泥虾面盛入碗中即可。"
+	}]
+
+
+
+}

@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/1.png",
+		"desc": "生菜富含膳食纤维和维生素C，能促进肠道蠕动，预防和缓解便秘，小米则有养护肠胃的功效。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/2.png",
+		"desc": "食材：生菜2片、小米50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/3.png",
+		"desc": "做法：1、将小米浸泡在清水中1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/4.png",
+		"desc": "2、将浸泡好的小米捞出，倒入锅中，按照小米：清水=1:7的比例，倒入清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/5.png",
+		"desc": "3、将小米熬煮成软烂的小米粥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/6.png",
+		"desc": "4、将生菜洗干净，取菜叶部分，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/7.png",
+		"desc": "5、将生菜叶放入小米粥中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz/8.png",
+		"desc": "6、将食材熬煮软烂，即可盛入碗中。"
+	}]
+
+
+
+}

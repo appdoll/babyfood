@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/1.png",
+		"desc": "鸡肉容易消化吸收，是低热量食品，在蛋白质含量较多的肉类中，鸡肉的脂肪最少、味道清淡、质感柔嫩，因此适合作为辅食食材给宝宝尝试"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/2.png",
+		"desc": "食材：豌豆50克、鸡胸肉50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/3.png",
+		"desc": "步骤1：将鸡胸肉清洗干净，切丝"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/4.png",
+		"desc": "步骤2：烧开水，将鸡肉丝放入沸水中焯烫熟，捞出备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/5.png",
+		"desc": "步骤3：将鸡胸肉放入搅拌机中，倒入适量温开水，搅打成肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/6.png",
+		"desc": "步骤4：将豌豆洗净，放入锅中煮至软烂后，捞出备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/7.png",
+		"desc": "步骤5：将豌豆倒入搅拌机中，倒入适量温开水，将豌豆搅打成细腻的泥状，过滤勺，取滤后的部分"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/8.png",
+		"desc": "步骤6：将鸡肉泥拌入豌豆泥中，喂养时搅拌均匀即可"
+	}]
+
+
+
+}

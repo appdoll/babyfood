@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/1.png",
+		"desc": "山药含有淀粉酶、多酚氧化酶等物质，有利于脾胃消化吸收功能"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/2.png",
+		"desc": "准备食材：宝宝面条20克、山药30克、鸡蛋1个、高汤1小碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/3.png",
+		"desc": "步骤1：将山药削皮，洗干净之后，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/4.png",
+		"desc": "步骤2：取一口小锅，倒入高汤，放入山药，先将山药煮熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/5.png",
+		"desc": "步骤3：将宝宝面条掰成小段"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/6.png",
+		"desc": "步骤4：将面条放入山药汤中，用大火煮开，换成小火继续煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/7.png",
+		"desc": "步骤5：另取一口小锅，加入适量清水，将鸡蛋煮成水煮蛋，剥开蛋壳，去掉蛋白，取蛋黄部分，磨成蛋黄碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/8.png",
+		"desc": "步骤6：等到山药面条煮到软烂状态的时候，放入蛋黄碎，稍微再搅拌1分钟即可"
+	}]
+
+
+
+}

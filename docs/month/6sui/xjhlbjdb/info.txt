@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/1.png",
+		"desc": "香蕉和胡萝卜本身都带有微甜的味道，做成蛋饼小朋友会喜欢吃。而且富含膳食纤维，有助于预防和缓解便秘的问题"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/2.png",
+		"desc": "食材： 胡萝卜1/2根、香蕉1根、鸡蛋1个、高筋面粉适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/3.png",
+		"desc": "步骤1：将胡萝卜去皮，切薄片。香蕉去皮，切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/4.png",
+		"desc": "步骤2：将胡萝卜放入蒸锅中，蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/5.png",
+		"desc": "步骤3：将胡萝卜片和香蕉块放入搅拌机中，加入适量温开水，搅打成细腻的泥状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/6.png",
+		"desc": "步骤4：碗中倒入适量的面粉，磕入蛋黄部分（蛋白不要），加入适量的水，将面粉拌成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/7.png",
+		"desc": "步骤5：往面糊中倒入胡萝卜香蕉泥，搅拌均匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/8.png",
+		"desc": "步骤6：小火加热平底锅，倒入小勺面糊，将面糊摊成小蛋饼。一面凝固后，再翻面，将两面煎到凝固成型，即可盛入盘中。"
+	}]
+
+
+
+}

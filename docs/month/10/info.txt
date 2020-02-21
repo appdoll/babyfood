@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝10个月辅食添加",
+	"desc1": "从这个月起，辅食将正式成为主食，可以让他和大人一起吃饭，但是仍然要注意喂给他适合的食物。蛋白质和铁都要适量添加。要注意荤素搭配，每顿饭放3种以上的菜。\n蛋白质：鸡蛋、鱼、鸡肉、猪肝等，从碎末逐渐过渡到小块儿状。\n蔬菜：胡萝卜、菜心、椰菜、西红柿。\n谷物：粥、软饭、挂面、豆制品、饼干、馒头片、熟土豆、芋头。",
+	"title2": "宝宝10个月营养提示",
+	"desc2": "10个月宝宝可以添加粥、软饭、挂面等各种饮食、豆制品、碎菜、碎肉、蛋、鱼、肝泥、饼干、馒头片、熟土豆、芋头等，应该以饭为主，每日三餐，早上7：30，中午12：00，晚上17：00可以给宝宝吃饭，在上午、下午和晚餐二小时后可以给宝宝添加水果，可以在早上6：00和晚上9：00给宝宝喝奶，注意：10个月的婴儿以稀粥、软面为主食，适量给孩子吃一些新鲜的水果（去皮除核） 。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/xlhzcmh.png",
+		"title": "西兰花紫菜迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/xlhzcmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/xqhlbmh.png",
+		"title": "西芹胡萝卜迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/xqhlbmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/znngg.png",
+		"title": "枣泥南瓜羹",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/znngg/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/dhxmh.png",
+		"title": "蛋黄小迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/dhxmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz.png",
+		"title": "卷心菜香菇粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/jxcxgz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/10/wdjrn.png",
+		"title": "豌豆鸡肉泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/10/wdjrn/info.txt"
+	}]
+
+}

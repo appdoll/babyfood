@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/1.png",
+		"desc": "卷心菜是含有丰富钾的碱性食物，而且钾的形态吸收堪比牛奶，所以是很适合的孩子的一种蔬菜"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/2.png",
+		"desc": "准备食材：卷心菜叶1片、鸭肉20克、白米粥1小碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/3.png",
+		"desc": "步骤1：将卷心菜洗干净，取较嫩的菜叶，剁碎备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/4.png",
+		"desc": "步骤2：将鸭肉洗干净，剁成肉末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/5.png",
+		"desc": "步骤3：蒸熟的鸭肉放入蒸锅中蒸熟，研磨成鸭肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/6.png",
+		"desc": "步骤4：取一口小锅，倒入米粥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/7.png",
+		"desc": "步骤5：米粥煮开之后，倒入卷心菜叶"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/8.png",
+		"desc": "步骤6：然后再倒入鸭肉泥，换成小火熬煮，一边用勺子搅拌，以免糊锅"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/9.png",
+		"desc": "步骤7：将食材熬煮到软烂的状态，即可盛入碗中"
+	}]
+
+
+
+}

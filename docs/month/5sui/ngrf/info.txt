@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/1.png",
+		"desc": "南瓜中含有丰富的碳水化合物、蛋白质和维生素、钙等微量元素，能增强宝宝的免疫力，为宝宝的身体发育提供全面均衡的营养。另外，南瓜中含有的锌，对皮肤和指甲健康也有益处"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/2.png",
+		"desc": "准备食材：南瓜1小块、大米50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/3.png",
+		"desc": "步骤1：将南瓜洗干净、去皮和南瓜籽，将南瓜切成碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/4.png",
+		"desc": "步骤2：将南瓜块蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/5.png",
+		"desc": "步骤3：将蒸熟的南瓜研磨成南瓜泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/6.png",
+		"desc": "步骤4：将淘洗好的白米放入电饭锅中，用大米：水=1：2的比例加入清水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/7.png",
+		"desc": "步骤5：将煮好的软饭盛出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/ngrf/8.png",
+		"desc": "步骤6：米饭上铺上南瓜泥，吃时拌匀即可"
+	}]
+
+
+
+}

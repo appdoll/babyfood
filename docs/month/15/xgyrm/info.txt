@@ -1,0 +1,39 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/1.png",
+		"desc": "香菇含有大量纤维质，食用起来较硬，需要煮嫩后再食用。香菇中含有促进钙质吸收的维生素D，有助于强化骨骼"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/2.png",
+		"desc": "准备食材：宝宝面条20克、鸭肉20克、香菇2个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/3.png",
+		"desc": "步骤1：将香菇洗干净（如果是干香菇，先提前用清水泡发）"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/4.png",
+		"desc": "步骤2：洗干净的香菇去掉香菇蒂，将香菇切碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/5.png",
+		"desc": "步骤3：将鸭肉洗干净，剁成肉末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/6.png",
+		"desc": "步骤4：鸭肉放入蒸锅中蒸熟，研磨成鸭肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/7.png",
+		"desc": "步骤5：将宝宝面条掰小段"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/8.png",
+		"desc": "步骤6：取一口小锅，倒入清水，冷水下面，然后用大火将面条煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/9.png",
+		"desc": "步骤7：放入香菇末，再次煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/10.png",
+		"desc": "步骤8：然后放入鸭肉泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/11.png",
+		"desc": "步骤9：等到将食材熬煮到软烂的状态，即可盛入碗中"
+	}]
+
+
+
+}

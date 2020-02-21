@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝18个月辅食添加",
+	"desc1": "鲑鱼内含有丰富的虾青素，虾青素是抗疲劳，增强体力很好的一种物质。所以多吃鲑鱼的话，是可以起到抗疲劳的作用的。特别是针对现在工作压力很大的上班族而言，多吃鲑鱼对调养身心，补充能量，补虚劳都是很有作用的",
+	"title2": "宝宝18个月营养提示",
+	"desc2": "一岁半的宝宝正处于智力发育时期，通常家长们会给宝宝添加鱼油，其实宝宝一岁以后可摄入各种自然食物，宝宝的菜式多样化，让宝宝经常吃些深海鱼，如马哈鱼、三文鱼、鲑鱼等，合理搭配，营养均衡，自然就不会缺少益智因子。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/wsjrm.png",
+		"title": "莴笋鸡肉面",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/wsjrm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/nghlbrnmhz.png",
+		"title": "南瓜胡萝卜肉泥米糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/nghlbrnmhz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz.png",
+		"title": "卷心菜豌豆粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jghlbz.png",
+		"title": "鸡肝胡萝卜粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/jghlbz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz.png",
+		"title": "鸡肉菜花燕麦粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz.png",
+		"title": "卷心菜鸭肉粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/18/jxcyrz/info.txt"
+	}]
+
+}

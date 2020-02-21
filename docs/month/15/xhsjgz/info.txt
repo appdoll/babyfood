@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/1.png",
+		"desc": "西红柿酸甜可口，有助于消化和开胃，对增强免疫力有一定的作用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/2.png",
+		"desc": "准备食材：白米粥1小碗、鸡肝20克、西红柿1/4个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/3.png",
+		"desc": "步骤1：将鸡肝浸泡在清水中30分钟，期间更换2-3次水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/4.png",
+		"desc": "步骤2：将鸡肝放入蒸锅中蒸熟，然后取出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/5.png",
+		"desc": "步骤3：将蒸熟的鸡肝捣碎成鸡肝泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/6.png",
+		"desc": "步骤4：将西红柿用开水烫一下，去皮，取1/4个的分量，去掉西红柿籽，将西红柿果肉切成碎末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/7.png",
+		"desc": "步骤5：取一口小锅，倒入白米粥，将米粥煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/8.png",
+		"desc": "步骤6：然后放入西红柿碎末一起煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/9.png",
+		"desc": "步骤7：将西红柿煮烂之后，倒入鸡肝泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/10.png",
+		"desc": "步骤8：将食材熬煮到软烂的状态，即可盛入碗中"
+	}]
+
+
+
+}

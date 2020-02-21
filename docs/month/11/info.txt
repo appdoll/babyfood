@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝11个月辅食添加",
+	"desc1": "这时的婴儿可以考虑断奶，两餐之间可以给他吃点点心或牛奶。注意荤素搭配，可逐步加大用量，每次食用50—100克。宝宝每天应保证吃到400毫升以上的牛奶。\n主食：粥、面条（面片）、软饭。\n蔬果：水、果汁、鲜水果泥、果酱。\n含钙与蛋白质的食物：全脂奶、鸡肉、瘦肉、豆腐。",
+	"title2": "宝宝11个月营养提示",
+	"desc2": "就餐时间上要有规律，添加蔬菜比如：黄瓜，冬瓜，西红柿，青菜，芹菜，西蓝花，蘑菇，胡萝卜，香菇，木耳，笋瓜，茄子，土豆等等都可以做给宝宝吃，豆腐也可以吃一点儿，鱼（刺少的），牛肉（铁跟蛋白质都跟丰富，如果宝宝喜欢，是非常好的食物），鸡肉，猪肉等等也可以吃，肉类里有丰富的蛋白质，而且肉类的汤搭配蔬菜也可以起到自然调味提鲜的功效",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/scxmz.png",
+		"title": "生菜小米粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/scxmz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/xhlbzrn.png",
+		"title": "西葫芦拌猪肉泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/xhlbzrn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/wddhn.png",
+		"title": "豌豆蛋黄泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/wddhn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt.png",
+		"title": "冬瓜蘑菇面条",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/dgmgmt/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/cyscz.png",
+		"title": "草鱼生菜粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/cyscz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/11/syblbz.png",
+		"title": "山药白萝卜粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/11/syblbz/info.txt"
+	}]
+
+}

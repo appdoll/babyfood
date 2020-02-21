@@ -1,0 +1,42 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/1.png",
+		"desc": "莲藕富含铁、钙等微量元素，植物蛋白质、维生素以及淀粉含量也很丰富，适量吃些莲藕还有清热降火的功效"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/2.png",
+		"desc": "准备食材：宝宝面条20克、鸭肉20克、莲藕20克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/3.png",
+		"desc": "步骤1：将莲藕洗干净，去皮，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/4.png",
+		"desc": "步骤2：然后将莲藕放入沸水中焯烫熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/5.png",
+		"desc": "步骤3：将莲藕放入搅拌机中，搅碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/6.png",
+		"desc": "步骤4：鸭肉洗干净，剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/7.png",
+		"desc": "步骤5：将鸭肉放入蒸锅中蒸熟，剁成肉泥备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/8.png",
+		"desc": "步骤6：宝宝面条掰成小段"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/9.png",
+		"desc": "步骤7：取一口小锅，倒入适量清水，面条冷水下锅"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/10.png",
+		"desc": "步骤8：面条煮开之后，放入鸭肉肉末。等到鸭肉煮到变色时，倒入莲藕糊"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/11.png",
+		"desc": "步骤9：将食材拌匀，煮到软烂"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom/12.png",
+		"desc": "步骤10：食材熬煮到软烂的状态时，将鸭肉莲藕面盛入碗中即可"
+	}]
+
+
+
+}

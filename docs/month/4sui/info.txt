@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝4岁辅食添加",
+	"desc1": "科学合理的食谱对4岁宝宝的成长发育非常有帮助，这时期可给宝宝提供更多更丰富的食品种类，可以给宝宝尝试很多大人吃的食物了。选择那些无农药污染、无霉变、硝酸盐含量低，且新鲜干净的食物，如米、面、豆类、芹菜、葱、蒜、韭菜、土豆、萝卜、地瓜等",
+	"title2": "宝宝4岁营养提示",
+	"desc2": "而且，此时要满足宝宝长高的营养需求，维生素D是帮助钙、磷被人体吸收及利用的重要物质。因此对幼儿骨骼的成长特别重要。牛奶、沙丁鱼、鲑鱼、鲔鱼、小鱼干、蛋黄、香菇等富含维生素D，宝宝可以多吃。\n除了摄取足够的维生素D之外，适度的到户外晒晒阳光，吸收阳光自行合成维生素D，也是幼儿很好的来源。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn.png",
+		"title": "西蓝花鸡肝泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xymb.png",
+		"title": "鳕鱼米饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/xymb/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz.png",
+		"title": "小米绿豆红薯粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx.png",
+		"title": "南瓜面线",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ymf.png",
+		"title": "燕麦饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/ymf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ydb.png",
+		"title": "鱼蛋饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/4sui/ydb/info.txt"
+	}]
+
+}

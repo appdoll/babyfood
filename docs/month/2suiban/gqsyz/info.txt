@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/1.png",
+		"desc": "山药含有淀粉酶、多酚氧化酶等物质，有利于脾胃消化吸收功能，能增强宝宝的肠胃功能。枸杞有明目、提高免疫的功效，不过给宝宝吃枸杞少量为宜"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/2.png",
+		"desc": "准备食材：枸杞2颗、山药30克、大米粥1小碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/3.png",
+		"desc": "步骤1：将枸杞放入清水中浸泡一会儿"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/4.png",
+		"desc": "步骤2：将山药去皮，洗干净之后，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/5.png",
+		"desc": "步骤3：取一口小锅，倒入大米粥，煮开"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/6.png",
+		"desc": "步骤4：然后放入山药块，用小火熬煮至山药变软，然后用勺子将山药黏碎，一边煮一边用勺子轻轻搅拌，防止糊锅"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/7.png",
+		"desc": "步骤5：然后放入枸杞"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/8.png",
+		"desc": "步骤6：将枸杞煮烂之后，盛入碗中即可"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/9.png",
+		"desc": ""
+	}]
+
+
+
+}

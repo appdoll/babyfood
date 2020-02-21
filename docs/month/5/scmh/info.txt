@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/1.png",
+		"desc": "生菜中含有丰富的膳食纤维，能促进肠道蠕动，预防和缓解宝宝便秘"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/2.png",
+		"desc": "食材： 生菜2片、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/3.png",
+		"desc": "步骤1：将生菜浸泡在清水10分钟，再用流水冲洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/4.png",
+		"desc": "步骤2：烧开水，将生菜略微焯烫，然后捞出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/5.png",
+		"desc": "步骤3：将生菜放入搅拌机中，加入少许温开水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/6.png",
+		"desc": "步骤4：将生菜搅打成细腻的菜泥，并将菜泥过滤勺，取滤后的部分"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/7.png",
+		"desc": "步骤5：将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/8.png",
+		"desc": "步骤6：取2宝宝勺生菜泥，拌入米糊中"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/9.png",
+		"desc": "步骤7：充分拌匀"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/scmh/10.png",
+		"desc": "步骤8：盛入碗中食用"
+	}]
+
+
+
+}

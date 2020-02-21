@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/1.png",
+		"desc": "南瓜含有淀粉、蛋白质、胡萝卜素、维生素B族、维生素C和钙、磷等成分，营养丰富。而且南瓜本身带有甜甜的味道，更容易为宝宝接受"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/2.png",
+		"desc": "准备食材：宝宝面条10克、南瓜20克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/3.png",
+		"desc": "步骤1：取适量的宝宝面条，先掰成小段"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/4.png",
+		"desc": "步骤2：将面条放入沸水中，等面条煮软烂后捞出，盛入碗中，可视宝宝的咀嚼能力，将面条压碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/5.png",
+		"desc": "步骤3：南瓜去皮去籽，洗干净后，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/6.png",
+		"desc": "步骤4：将南瓜放在盘中，隔水蒸熟，需要约20分钟，将蒸熟的南瓜取出，用勺子按压成南瓜泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/ngmx/7.png",
+		"desc": "步骤5：将南瓜泥铺在面条上，搅拌均匀即可"
+	}]
+
+
+
+}

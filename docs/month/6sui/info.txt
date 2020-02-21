@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝6岁辅食添加",
+	"desc1": "现在要尽量给孩子准备多种健康食品，并且以身作则地先吃一些，给孩子树立一个好榜样哦。宝宝最好每天摄入以下的食物，谷类（米饭、面条等）每日180-260克；蔬菜类每日200-250克；禽畜肉类每日30-40克；蛋类每日60克；奶类每日200-300克；或相当量的奶制品；大豆及豆制品每日25克。",
+	"title2": "宝宝6岁营养提示",
+	"desc2": "谷物是人体能量的主要来源，可以为宝宝提供碳水化合物、蛋白质、膳食纤维和B族维生素等，学龄前儿童的膳食也应该以谷类食物为主，并合理搭配粗细粮。\n除主食外，还要加乳类、蛋类或者豆制品，同时应该鼓励学龄前儿童适当多食蔬菜和水果，在烹调宝宝菜式时，应该注意将蔬菜切小、切细，以利于儿童咀嚼和吞咽。鱼、禽、兔肉等含蛋白质较高，饱和脂肪较低，建议儿童可以经常食用。。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz.png",
+		"title": "西葫芦鲈鱼粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb.png",
+		"title": "香蕉胡萝卜鸡蛋饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/xjhlbjdb/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh.png",
+		"title": "鸡肝迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/jgmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hlbcyrf.png",
+		"title": "胡萝卜鲳鱼软饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/hlbcyrf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf.png",
+		"title": "红豆牛肉饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/hdnrf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf.png",
+		"title": "西兰花虾泥软饭",
+		"configUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/info.txt"
+	}]
+
+}

@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/1.png",
+		"desc": "土豆中含有大量的淀粉，是不错的辅食食材之一，不仅利于宝宝吸收，而且还不会给宝宝肠胃造成很大的负担。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/2.png",
+		"desc": "食材：鳕鱼1小块、土豆1/2个、胡萝卜1/3根、食用油少许"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/3.png",
+		"desc": "做法：1、将胡萝卜去皮，洗干净后，切成末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/4.png",
+		"desc": "2、将土豆去皮，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/5.png",
+		"desc": "3、鳕鱼洗干净，切成肉末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/6.png",
+		"desc": "4、热油锅，放入胡萝卜末稍微煸炒，然后盛出。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/7.png",
+		"desc": "5、将土豆蒸熟，取出，压成土豆泥；将鳕鱼肉末、煸炒好的胡萝卜放入土豆泥中，搅拌均匀。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/8.png",
+		"desc": "6、将鱼肉胡萝卜土豆泥捏成小圆饼状；再次热油锅，将圆饼煎熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/tdxyb/9.png",
+		"desc": "7、将煎熟的土豆鳕鱼饼盛入盘中即可。"
+	}]
+
+
+
+}

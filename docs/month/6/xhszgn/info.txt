@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/1.png",
+		"desc": "猪肝含有丰富的维生素A和铁、锌等微量元素，西红柿则富含维生素C，有助于促进宝宝身体对铁的吸收"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/2.png",
+		"desc": "食材： 西红柿1个、猪肝100克、姜1片"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/3.png",
+		"desc": "步骤1：将西红柿干净，底部划十字，淋上热开水，方便去皮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/4.png",
+		"desc": "步骤2：将西红柿去皮，切掉蒂头，切碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/5.png",
+		"desc": "步骤3：猪肝洗干净，切薄片。将猪肝浸泡在清水中30分钟，期间换水2-3次"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/6.png",
+		"desc": "步骤4：将浸泡好的猪肝再清洗一次，然后放入锅中，倒入适量的清水，放入姜片"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/7.png",
+		"desc": "步骤5：大火煮开后，再继续煮5分钟。将煮好的猪肝捞出，备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/8.png",
+		"desc": "步骤6：将西红柿和猪肝倒入搅拌机中，倒入少许温开水，将西红柿猪肝搅打成细腻的泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/9.png",
+		"desc": "步骤7：将西红柿猪肝泥放入蒸锅中再蒸5分钟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/xhszgn/10.png",
+		"desc": "步骤8：将蒸好的西红柿猪肝泥取出即可。"
+	}]
+
+
+
+}

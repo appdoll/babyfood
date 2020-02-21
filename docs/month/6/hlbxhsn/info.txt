@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/1.png",
+		"desc": "西红柿中含有维生素A、维生素C比例合适，并含有丰富的胡萝卜素，是补充维生素的优质蔬菜之一。而且西红柿味道酸甜可口，宝宝比较容易接受"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/2.png",
+		"desc": "食材： 胡萝卜1/3根、西红柿1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/3.png",
+		"desc": "步骤1：西红柿洗干净，底部划十字，放入沸水中焯烫"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/4.png",
+		"desc": "步骤2：将焯烫好的西红柿捞出，剥皮，去掉蒂头。取一半的分量，切碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/5.png",
+		"desc": "步骤3：将胡萝卜洗干净，去皮，切片"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/6.png",
+		"desc": "步骤4：将胡萝卜片放入蒸锅中，蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/7.png",
+		"desc": "步骤5：将西红柿碎和胡萝卜片倒入搅拌机中，倒入适量温开水，搅打成细腻的泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/hlbxhsn/8.png",
+		"desc": "步骤6：将胡萝卜西红柿泥盛入碗中即可"
+	}]
+
+
+
+}

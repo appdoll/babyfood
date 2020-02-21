@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/1.png",
+		"desc": "香菇具有高蛋白、低脂肪、多糖、多种氨基酸和多种维生素的营养特点，而牛肉富含蛋白质、铁等元素，荤素搭配，不仅让这道香菇牛肉粥更美味，营养也更多样化"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/2.png",
+		"desc": "准备食材：牛肉1小块、香菇1个、油菜1棵、米饭1/3饭碗、清水100毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/3.png",
+		"desc": "步骤1：将牛肉洗干净，剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/4.png",
+		"desc": "步骤2：香菇用清水泡发（如果是鲜香菇直接洗净剁碎）"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/5.png",
+		"desc": "步骤3：泡好的香菇去掉香菇蒂，切成香菇碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/6.png",
+		"desc": "步骤4：将油菜洗干净，取嫩叶部分切碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/7.png",
+		"desc": "步骤5：取一口小锅，倒入清水，倒入米饭和牛肉熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/8.png",
+		"desc": "步骤6：等到牛肉变色，放入香菇和油菜末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/9.png",
+		"desc": "步骤7：将食材熬煮到软烂"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5sui/nrxgycf/10.png",
+		"desc": "步骤8：将煮好的牛肉香菇油菜软饭盛入碗中即可"
+	}]
+
+
+
+}

@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/1.png",
+		"desc": "猪脊肉含有人体生长的发育所需的丰富的优质蛋白、脂肪、维生素等，而且肉质较嫩，易消化。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/2.png",
+		"desc": "食材：猪里脊肉100克、山药100克、姜丝5克、淀粉少许"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/3.png",
+		"desc": "做法：1、将猪里脊肉剁成肉泥，放入姜丝，腌制15分钟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/4.png",
+		"desc": "2、将腌制好的肉泥去掉姜丝，调入少许淀粉，拌匀；将肉泥捏成方便宝宝吃的小肉丸，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/5.png",
+		"desc": "3、山药去皮，洗干净后，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/6.png",
+		"desc": "4、将山药铺在盘底，上面放上小肉丸；将山药小肉丸放入蒸锅中，蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/syqzxrw/7.png",
+		"desc": "5、将蒸熟的山药小肉丸取出即可。"
+	}]
+
+
+
+}

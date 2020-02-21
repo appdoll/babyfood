@@ -1,0 +1,39 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/1.png",
+		"desc": "西兰花铁含量每100克有1.9毫克，可以预防和缓解宝宝缺铁性贫血，因为西兰花的抗热能力较强，所以即使加热煮熟，营养价值还是较高"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/2.png",
+		"desc": "食材： 西兰花100克、鸡肝80克、姜1片"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/3.png",
+		"desc": "步骤1：将西兰花掰成小朵，浸泡在淡盐水中15分钟，再用流水清洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/4.png",
+		"desc": "步骤2：烧开水，放入西兰花小朵，焯烫熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/5.png",
+		"desc": "步骤3：将焯熟的西兰花捞出，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/6.png",
+		"desc": "步骤4：将鸡肝洗干净，切片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/7.png",
+		"desc": "步骤5：将切片的鸡肝放入清水中，浸泡30分钟，期间换水2-3次。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/8.png",
+		"desc": "步骤6：将浸泡好的鸡肝捞出，冲洗一次，倒入锅中，加入姜片和水，将鸡肝焯烫熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/9.png",
+		"desc": "步骤7：将处理好的鸡肝片和西兰花放在一个碗中备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/10.png",
+		"desc": "步骤8：倒入搅拌机中，加入少许温开水，将食材搅打成细腻的泥状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xlhjgn/1.png",
+		"desc": "步骤9：取适量的西兰花鸡肝泥舀入碗中即可。"
+	}]
+
+
+
+}

@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝2岁辅食添加",
+	"desc1": "2岁的宝宝新牙在慢慢长出，大脑发育加快，消化功能也不断完备，主要食物也逐渐从以奶类为主转向以混合食物为主，不过此时宝宝的消化系统尚未成熟，因此还不能给宝宝吃大人的食物，要根据宝宝的生理特点和营养需求，为他制作可口的食物，保证获得均衡营养。",
+	"title2": "宝宝2岁营养提示",
+	"desc2": "2岁宝宝的胃容量有限，宜少吃多餐。宜多吃蔬菜、水果，因此需要多吃，但水果不能代替蔬菜，宝宝每天应进食的蔬菜、水果共250克。且适量补充动植物蛋白，每天应吃肉类40-50克、豆制品25-50克、鸡蛋1个。牛奶营养丰富，特别是富含钙质，利于宝宝吸收，因此这一时期牛奶仍是宝宝不可或缺的食物，每天应保证摄取250-500毫升。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh.png",
+		"title": "红豆米糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/hdmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh.png",
+		"title": "红豆薏米糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xlhdhn.png",
+		"title": "西蓝花蛋黄泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/xlhdhn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb.png",
+		"title": "肉末薯泥饼",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf.png",
+		"title": "西红柿茄子",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/xhsqzrf/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/xlhdhn.png",
+		"title": "西蓝花蛋黄泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2sui/xlhdhn/info.txt"
+	}]
+
+}

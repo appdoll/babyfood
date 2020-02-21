@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/1.png",
+		"desc": "绿豆含有丰富的营养元素如优质蛋白、不饱和脂肪酸、碳水化合物、矿物质、维生素等，具有清热解毒的功效。绿豆的肉多用于解毒，而皮多用于清热"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/2.png",
+		"desc": "食材： 大米50克、小米20克、绿豆20克、红薯半个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/3.png",
+		"desc": "步骤1：将绿豆泡在清水中一晚的时间。小米提前在清水中浸泡一个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/4.png",
+		"desc": "步骤2：将红薯去皮，洗干净后切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/5.png",
+		"desc": "步骤3：将大米、小米、红薯和绿豆倒入锅中，按照谷物：清水=1：5的比例，加入清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/6.png",
+		"desc": "步骤4：当米粥、红薯熬煮软烂的时候，关火。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4sui/xmldhsz/7.png",
+		"desc": "步骤5：将小米绿豆红薯粥盛入碗中即可。"
+	}]
+
+
+
+}

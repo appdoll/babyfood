@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/1.png",
+		"desc": "米糊具有补脾、和胃、清肺功效，也有益气、养阴、润燥的功能，有益于人体的发育和健康，并且能刺激胃液的分泌，有助于消化，并对脂肪的吸收有促进作用，亦能促使奶粉中的酪蛋白形成疏松而又柔软的小凝块，使之容易消化吸收"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/2.png",
+		"desc": "准备食材：大米15克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/3.png",
+		"desc": "步骤1：大米洗净，用温水浸泡2个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/4.png",
+		"desc": "步骤2：把泡好的大米放入搅拌机中，加少许水，搅拌成成细腻的米浆。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/5.png",
+		"desc": "步骤3：将糊状的米浆盛入容器。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/6.png",
+		"desc": "步骤4：把米浆倒入奶锅中，加入约8倍的清水，小火慢慢加热，其间用勺子不停的搅动米浆，避免糊锅。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/dmh/7.png",
+		"desc": "步骤5：待米浆沸腾后，继续煮2分钟后盛出即可。"
+	}]
+
+
+
+}

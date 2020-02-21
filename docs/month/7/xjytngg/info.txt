@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/1.png",
+		"desc": "芋头含有丰富的钙、铁、胡萝卜素、维生素C等，适量吃点芋头，能够增强宝宝的免疫力和抵抗力"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/2.png",
+		"desc": "食材：芋头100克、南瓜100克、香蕉半根"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/3.png",
+		"desc": "做法：1、将芋头去皮，切成小丁状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/4.png",
+		"desc": "2、南瓜去皮、去籽，切成小丁状；香蕉去皮，切片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/5.png",
+		"desc": "3、锅中烧开水，放入芋头大火煮开，换成小火，煮10分钟，期间撇掉浮沫。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/6.png",
+		"desc": "4、换成大火，加入南瓜，煮开后调成小火。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/7.png",
+		"desc": "5、煮到南瓜和芋头都软烂后，放入香蕉片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/7/xjytngg/8.png",
+		"desc": "6、香蕉煮软后，盛入碗中；用勺子压软烂即可。"
+	}]
+
+
+
+}

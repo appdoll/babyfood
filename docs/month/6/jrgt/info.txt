@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/1.png",
+		"desc": "鸡肉高汤做法简单而且没有任何添加剂，味道香浓营养好"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/2.png",
+		"desc": "食材：鸡1只、山药100克、姜3片、胡萝卜1根"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/3.png",
+		"desc": "做法：1、去掉鸡的鸡皮和鸡油，然后斩块；锅中倒入清水，鸡肉冷水入锅，煮开，略微焯烫。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/4.png",
+		"desc": "2、将鸡肉捞出，冲洗掉浮沫。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/5.png",
+		"desc": "3、胡萝卜去皮，洗干净后，切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/6.png",
+		"desc": "4、山药去皮，洗干净后，切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/7.png",
+		"desc": "5、鸡肉和姜片放入锅中，倒入足量的清水，大火煮开。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/8.png",
+		"desc": "6、换成小火煮1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/9.png",
+		"desc": "7、然后放入胡萝卜和山药，接着熬煮1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6/jrgt/10.png",
+		"desc": "8、取熬煮好的汤水作为高汤，如果需要保存，可以放凉后，密封放入冰箱冷藏。"
+	}]
+
+
+
+}

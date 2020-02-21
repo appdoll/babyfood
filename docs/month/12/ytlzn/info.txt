@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/1.png",
+		"desc": "芋头含有丰富的钙、铁、胡萝卜素、维生素C等，适量吃点芋头，能够增强宝宝的免疫力和抵抗力。板栗含有丰富的碳水化合物、蛋白质、脂肪、钙、维生素等，对宝宝发育和成长很有好处。不过栗子食用少量为宜，以免宝宝难以消化"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/2.png",
+		"desc": "准备食材：芋头40克、栗子20克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/3.png",
+		"desc": "步骤1：将芋头去皮，洗干净之后，切成小块"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/4.png",
+		"desc": "步骤2：将芋头放入蒸锅中，蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/5.png",
+		"desc": "步骤3：将芋头块取出，用研磨器磨成细腻、软烂的芋头泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/6.png",
+		"desc": "步骤4：将板栗蒸熟，剥皮取出板栗肉，然后用搅拌机将栗子搅打成泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/12/ytlzn/7.png",
+		"desc": "步骤5：将芋头泥和栗子泥倒入碗中，拌匀即可"
+	}]
+
+
+
+}

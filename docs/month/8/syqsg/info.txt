@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/1.png",
+		"desc": "芡实含有丰富的淀粉，可为身体提供能量，并含有多种维生素和矿物质，能为宝宝成长提供丰富的营养。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/2.png",
+		"desc": "食材：芡实30克、山药30克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/3.png",
+		"desc": "做法：1、将芡实放入清水中，浸泡30分钟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/4.png",
+		"desc": "2、山药去皮，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/5.png",
+		"desc": "3、将泡好的芡实和山药一起倒入锅中，倒入淹没食材的清水；大火煮开后，换成小火熬煮。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/6.png",
+		"desc": "4、当芡实和山药煮至软烂，关火，连同汤汁倒入搅拌机中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/7.png",
+		"desc": "5、将山药芡实搅打成细腻的汤羹状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/syqsg/8.png",
+		"desc": "6、将山药芡实羹盛入碗中即可。"
+	}]
+
+
+
+}

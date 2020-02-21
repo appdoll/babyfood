@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/1.png",
+		"desc": "西葫芦含有丰富的维生素、水分和膳食纤维，营养丰富，而且容易消化，适合作为辅食给宝宝尝试"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/2.png",
+		"desc": "食材： 鲈鱼30克、西葫芦1/3根、大米50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/3.png",
+		"desc": "步骤1：大米放入清水中，浸泡1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/4.png",
+		"desc": "步骤2：西葫芦洗干净，去皮去瓤，切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/5.png",
+		"desc": "步骤3：西葫芦放入锅中焯熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/6.png",
+		"desc": "步骤4：将鲈鱼洗干净，焯烫熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/7.png",
+		"desc": "步骤5：煮熟的鱼肉去掉鱼刺和鱼皮，取净鱼肉，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/8.png",
+		"desc": "步骤6：将浸泡好的大米放入锅中，按照大米：清水=1：5的比例，熬煮白米粥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/9.png",
+		"desc": "步骤7：大米熬煮成软绵的白米粥后，倒入西葫芦块。西葫芦煮软后，倒入鱼肉末，再煮开一次，关火。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xhllyz/10.png",
+		"desc": "步骤8：将煮好的西葫芦鲈鱼粥盛入碗中即可。"
+	}]
+
+
+
+}

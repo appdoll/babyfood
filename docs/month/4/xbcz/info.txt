@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/1.png",
+		"desc": "小白菜富含维生素B1、维生素B6、维生素C、纤维素等多种营养元素，长期食用小白菜有助于增强免疫力，而且小白菜含钙量较高，是预防宝宝佝偻病可以选择的蔬菜"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/2.png",
+		"desc": "准备食材：小白菜100克、水适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/3.png",
+		"desc": "步骤1：小白菜清洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/4.png",
+		"desc": "步骤2：控水，将叶子撕下来备用."
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/5.png",
+		"desc": "步骤3：开水焯透，捞出控水，自然晾凉。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/6.png",
+		"desc": "步骤4：用搅拌机把菜叶搅拌成菜泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/7.png",
+		"desc": "步骤5：将打好的小白菜泥过滤。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/xbcz/8.png",
+		"desc": "步骤6：过滤后取汁水即可。"
+	}]
+
+
+
+}

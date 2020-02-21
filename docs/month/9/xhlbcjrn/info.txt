@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/1.png",
+		"desc": "西葫芦富含膳食纤维，能够促动肠胃蠕动，有助预防和缓解宝宝便秘。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/2.png",
+		"desc": "食材：白菜1大片、西葫芦1/3根、鸡肉30克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/3.png",
+		"desc": "做法：1、将白菜洗干净；取菜叶部分，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/4.png",
+		"desc": "2、将西葫芦去皮、去瓤，洗干净后切成小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/5.png",
+		"desc": "3、将白菜和西葫芦放入蒸锅中，蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/6.png",
+		"desc": "4、白菜碎和西葫芦放入搅拌机中，倒入少许温开水；将食材搅打成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/7.png",
+		"desc": "5、将鸡肉洗净，切丝。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/8.png",
+		"desc": "6、将鸡肉丝焯烫熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/9.png",
+		"desc": "7、将鸡肉丝倒入搅拌机中，倒入少许肉汤，搅打成泥状；将鸡肉泥倒入碗中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/10.png",
+		"desc": "8、蔬菜泥拌入鸡肉泥中，吃时搅拌均匀即可。"
+	}]
+
+
+
+}

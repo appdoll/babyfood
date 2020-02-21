@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/1.png",
+		"desc": "薏米含有含有丰富的维生素B族、矿物质、膳食纤维，红豆含有丰富的蛋白质和矿物质，宝宝尝试红豆薏米糊，可以丰富摄取谷物的种类，让营养更多面"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/2.png",
+		"desc": "食材：红豆50克、薏米50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/3.png",
+		"desc": "做法：1、将红豆和薏米浸泡在清水中一个晚上的时间。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/4.png",
+		"desc": "2、将浸泡好的红豆和薏米放入搅拌机中，倒入适量清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/5.png",
+		"desc": "3、将红豆和薏米搅打成细腻的糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/6.png",
+		"desc": "4、将红豆薏米糊倒入小锅中，加入清水，用大火煮开。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/7.png",
+		"desc": "5、然后换成中小火，一边熬煮一边用勺子搅拌，煮约30分钟，将食材煮熟透；将煮好的红豆薏米糊过滤勺。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/hdymh/8.png",
+		"desc": "6、取滤后的部分盛入碗中即可"
+	}]
+
+
+
+}

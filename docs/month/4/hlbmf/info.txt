@@ -1,0 +1,21 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/1.png",
+		"desc": "胡萝卜含丰富的胡萝卜素，在体内可转变成维生素A，对促进人体的生长发育及维持正常视觉功能具有十分重要的作用。此外，胡萝卜还含有较多的维生素C、B2等营养素，能够补充人体全面营养。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/2.png",
+		"desc": "准备食材：米粉30克、胡萝卜30克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/3.png",
+		"desc": "步骤1：胡萝卜洗净去皮切丁。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/4.png",
+		"desc": "步骤2：放入少许清水于蒸锅中蒸熟，将胡萝卜煮软压成泥糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/5.png",
+		"desc": "步骤3：准备好米粉，搅拌成糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/hlbmf/6.png",
+		"desc": "步骤4：把胡萝卜泥用少许温水搅匀稍稍凉凉，用来冲调米粉即可。"
+	}]
+}

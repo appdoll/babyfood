@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/1.png",
+		"desc": "卷心菜和豌豆都是富含膳食纤维的蔬菜，宝宝适量摄取，有助于促进肠胃蠕动，预防和缓解便秘。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/2.png",
+		"desc": "食材：卷心菜2片、豌豆30克、白米粥1碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/3.png",
+		"desc": "做法：1、将豌豆淘洗干净，锅中烧开水，豌豆倒入锅中，煮烂后捞出。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/4.png",
+		"desc": "2、将焯熟的豌豆倒入搅拌机中，倒入少许开水，搅打成细腻的豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/5.png",
+		"desc": "3、将卷心菜洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/6.png",
+		"desc": "4、切碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/7.png",
+		"desc": "5、将白米粥倒入锅中，煮开后，放入卷心菜碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/8.png",
+		"desc": "6、蔬菜煮软后，倒入豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jxcwdz/9.png",
+		"desc": "7、将食材熬煮软烂，即可盛入碗中。"
+	}]
+
+
+
+}

@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/1.png",
+		"desc": "人体多吃红薯可以提高免疫力，红薯含有丰富的淀粉、维生素、纤维素等人体必需的营养成分，还含有丰富的镁、磷、钙等矿物元素和亚油酸等"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/2.png",
+		"desc": "准备食材：苹果适量、红薯适量、水适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/3.png",
+		"desc": "步骤1：苹果，红薯切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/4.png",
+		"desc": "步骤2：小奶锅里倒入适量清水。再放入苹果和红薯进去煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/5.png",
+		"desc": "步骤3：煮软后，连同汤汁一起倒入搅拌机。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/sgg/6.png",
+		"desc": "步骤4：将苹果，红薯打成糊糊"
+	}]
+
+
+
+}

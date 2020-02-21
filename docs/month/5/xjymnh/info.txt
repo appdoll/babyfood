@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/1.png",
+		"desc": "这道带有淡淡奶香的香蕉燕麦奶糊，富含膳食纤维，可以预防和缓解宝宝便秘。对于初次尝试燕麦的宝宝，妈妈要注意观察宝宝食用燕麦之后，是否有过敏等不适反应"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/2.png",
+		"desc": "食材：即食燕麦片10克、香蕉1/2根、母乳或配方奶适量、热开水适量"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/3.png",
+		"desc": "做法：1、将即食燕麦片倒入碗中，倒入适量热开水，将燕麦片泡开。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/4.png",
+		"desc": "2、香蕉去皮，取1/2的量，撕掉白丝，切小块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/5.png",
+		"desc": "3、将泡开的燕麦片和香蕉、母乳或配方奶一起，倒入搅拌机中。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/6.png",
+		"desc": "4、进行搅拌。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/7.png",
+		"desc": "5、将食材搅打成细腻的奶糊状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/8.png",
+		"desc": "6、将搅打好的香蕉燕麦奶糊倒入碗中即可。"
+	}]
+
+
+
+}

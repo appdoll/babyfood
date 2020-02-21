@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/1.png",
+		"desc": "土豆所含的粗纤维，可促进肠胃蠕动，有通便和防治婴儿便秘的功效。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/2.png",
+		"desc": "准备食材：土豆1个、橙1个"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/3.png",
+		"desc": "步骤1：土豆去皮切片，上锅蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/4.png",
+		"desc": "步骤2：土豆蒸熟后，压成土豆泥（专门压土豆泥的压子或者勺子），也可加入保鲜袋中，用擀面杖擀成泥，尽量压细，口感会好一些。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/5.png",
+		"desc": "步骤3：橙子切开，取橙肉，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/6.png",
+		"desc": "步骤4：土豆泥与准备好的橙肉混合。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/cwtdn/7.png",
+		"desc": "步骤5：搅拌均匀即可。"
+	}]
+
+
+
+}

@@ -1,0 +1,36 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/1.png",
+		"desc": "这是一道荤素搭配的营养辅食泥，鸡肉容易消化吸收，脂肪少、味道清淡、质感柔嫩，西兰花则含有丰富的维生素和膳食纤维"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/2.png",
+		"desc": "食材：西兰花100克、鸡肉100克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/3.png",
+		"desc": "步骤1：将西兰花掰成小朵，放入淡盐水中浸泡15分钟后，用流水冲洗干净"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/4.png",
+		"desc": "步骤2：烧开水，将洗好的西兰花朵放入沸水中焯烫熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/5.png",
+		"desc": "步骤3：将焯熟的西兰花捞出，剁碎备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/6.png",
+		"desc": "步骤4：将鸡肉清洗干净，切丝"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/7.png",
+		"desc": "步骤5：烧开水，将鸡肉焯烫熟，捞出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/8.png",
+		"desc": "步骤6：将焯熟的鸡肉和西兰花碎倒入搅拌机中，倒入适量的温开水"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/9.png",
+		"desc": "步骤7：将西兰花和鸡肉搅打成细腻的泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/10.png",
+		"desc": "步骤8：取适量的西兰花鸡肉泥盛入碗中即可"
+	}]
+
+
+
+}

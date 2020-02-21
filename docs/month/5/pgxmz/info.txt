@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/1.png",
+		"desc": "小米的营养价值丰富，富含维生素B1、B12等，具有防止消化不良及口角生疮的功效。苹果小米粥健脾和胃、安神养心"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/2.png",
+		"desc": "食材：苹果1个、小米100克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/3.png",
+		"desc": "做法：1、小米放入清水中，提前浸泡1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/4.png",
+		"desc": "2、将苹果去皮。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/5.png",
+		"desc": "3、将苹果切块，去掉籽。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/6.png",
+		"desc": "4、将浸泡好的小米倒入锅中，按照小米：清水=1:7的比例，倒入清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xjymnh/7.png",
+		"desc": "5、再往小米中倒入切好的苹果块。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/8.png",
+		"desc": "6、用大火煮开后，换成小火熬煮约1个小时。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/pgxmz/9.png",
+		"desc": "7、将小米熬煮成软糯的小米粥时，即可盛入碗中。"
+	}]
+
+
+
+}

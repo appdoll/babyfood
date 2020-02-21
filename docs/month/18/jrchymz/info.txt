@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/1.png",
+		"desc": "燕麦中含有极其丰富的亚油酸，对便秘也有辅助疗效，有效增强体力。燕麦含有的钙、磷、铁、锌等矿物质有促进骨骼发育、预防贫血的功效，是补钙佳品"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/2.png",
+		"desc": "准备食材：鸡肉20克、菜花4朵、大米30克、燕麦10克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/3.png",
+		"desc": "步骤1：将菜花洗干净，放入沸水中略微焯烫，去掉菜梗，取菜花部分，切碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/4.png",
+		"desc": "步骤2：将大米和燕麦淘洗好，放入锅中，加入适量的清水，熬煮成燕麦粥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/5.png",
+		"desc": "步骤3：将鸡肉洗干净，剁成肉末，放入燕麦粥中一起熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/6.png",
+		"desc": "步骤4：等到鸡肉煮变色后，放入菜花末，用小火熬煮"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/18/jrchymz/7.png",
+		"desc": "步骤5：一边熬煮一边碾烂食材，等到食材熬煮到软烂的状态，即可出锅"
+	}]
+
+
+
+}

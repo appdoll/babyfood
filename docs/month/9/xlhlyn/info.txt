@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/1.png",
+		"desc": "西兰花含有膳食纤维，有助于预防和缓解宝宝便秘。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/2.png",
+		"desc": "食材：西兰花2朵、鲈鱼30克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/3.png",
+		"desc": "做法：1、西兰花掰成小朵，放入淡盐水中浸泡15分钟，然后用流水清洗干净。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/4.png",
+		"desc": "2、烧开水，将西兰花放入水中焯烫熟，捞出。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/5.png",
+		"desc": "3、西兰花剁碎，倒入搅拌机中，加入少许温开水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/6.png",
+		"desc": "4、将西兰花搅打成细腻的菜泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/7.png",
+		"desc": "5、鲈鱼肉，洗干净后，放入蒸锅中蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/8.png",
+		"desc": "6、将蒸熟的鲈鱼刮下鱼肉，压成鱼泥，再仔细检查是否有骨刺。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/9.png",
+		"desc": "7、将鱼泥盛入碗中，拌入西兰花菜泥，吃时拌匀即可。"
+	}]
+
+
+
+}

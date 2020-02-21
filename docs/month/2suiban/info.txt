@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝2岁6个月辅食添加",
+	"desc1": "由于宝宝的消化吸收能力发育已相当完善，乳牙也基本长齐。此时，粗粮也应正式进入宝宝的餐谱，因粗粮中含有丰富的营养物质，如B族维生素、膳食纤维、不同种类的氨基酸、铁、钙、镁、磷等，能满足宝宝的营养需求。",
+	"title2": "宝宝2岁6个月营养提示",
+	"desc2": "偶尔吃粗粮，杂粮对现阶段的宝宝来说十分有好处哦，比如玉米粥，山芋粥，黑米，小米（最有营养，而且健脾），各种豆类坚果都是不错的选择。\n对于尚处在幼儿期的宝宝，水果的进食不应过多，每天以100-200克水果为宜，相当于一个中等大小的橘子或半个大苹果。因水果中的主要成分是果糖，果糖摄入太多可造成宝宝的身体缺乏铜元素，从而影响骨骼发育。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ngsyn.png",
+		"title": "南瓜山药泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/ngsyn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn.png",
+		"title": "西蓝花蛋黄泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/xlhdhn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh.png",
+		"title": "率都迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/ldmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz.png",
+		"title": "枸杞山药粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/gqsyz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz.png",
+		"title": "白菜鸭肉粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/bcyrz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm.png",
+		"title": "山药鸡蛋面",
+		"configUrl": "https://springmob.github.io/babyfood/month/2suiban/syjdm/info.txt"
+	}]
+
+}

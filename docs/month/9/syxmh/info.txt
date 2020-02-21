@@ -1,0 +1,27 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/1.png",
+		"desc": "山药含有淀粉酶、多酚氧化酶等物质，有利于促进宝宝脾胃的消化吸收功能"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/2.png",
+		"desc": "食材：小米25克、山药50克"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/3.png",
+		"desc": "步骤1：山药去皮，切块，蒸熟取出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/4.png",
+		"desc": "步骤3：将浸泡好的小米倒入锅中，加入适量的清水，熬煮成软烂的小米粥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/5.png",
+		"desc": "步骤4：将山药和小米粥倒入搅拌机中，倒入少许小米汤"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/6.png",
+		"desc": "步骤5：将食材搅打成细腻的糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh/7.png",
+		"desc": "步骤6：将山药小米糊倒入锅中，再略煮一会儿，将煮好的山药小米糊盛入碗中即可"
+	}]
+
+
+
+}

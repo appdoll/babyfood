@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/1.png",
+		"desc": "胡萝卜中丰富的胡萝卜素，在体内可转变成维生素A，对促进宝宝生长发育及维持正常视觉功能具有十分重要的作用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/2.png",
+		"desc": "食材：豌豆30克、胡萝卜1/3根、虾2只、白米粥1碗"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/3.png",
+		"desc": "做法：1、胡萝卜去皮，切成小丁状。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/4.png",
+		"desc": "2、虾去掉虾头、虾壳，挑掉虾线，剁碎。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/5.png",
+		"desc": "3、豌豆洗干净，放入搅拌机中，倒入适量清水。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/6.png",
+		"desc": "4、搅打成豌豆泥；将豌豆泥过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/7.png",
+		"desc": "5、锅中倒入白米粥，煮开后，放入胡萝卜小丁和虾末。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/8.png",
+		"desc": "6、胡萝卜煮软、虾煮变色后，放入豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/8/wdhlbxmz/9.png",
+		"desc": "7、将食材熬煮至软烂状态，即可盛入碗中。"
+	}]
+
+
+
+}

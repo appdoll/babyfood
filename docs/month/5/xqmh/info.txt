@@ -1,0 +1,33 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/1.png",
+		"desc": "西芹口感爽脆，营养丰富，富含蛋白质、碳水化合物、矿物质及多种维生素等营养物质，西芹叶子也可以卷奶酪来食用，作为开胃菜"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/2.png",
+		"desc": "食材： 西芹100克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/3.png",
+		"desc": "步骤1：将西芹洗干净，切成小丁"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/4.png",
+		"desc": "步骤2：烧开水，将西芹丁放入沸水中焯烫熟，捞出"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/5.png",
+		"desc": "步骤3：将西芹丁放入搅拌机中，倒入少许温开水，搅打成菜泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/6.png",
+		"desc": "步骤4：将西芹菜泥过滤勺，取滤后的部分备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/7.png",
+		"desc": "步骤5：将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/8.png",
+		"desc": "步骤6：舀2宝宝勺的西芹泥调入米糊中，搅拌均匀"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/5/xqmh/9.png",
+		"desc": "步骤7：盛入碗中即可食用"
+	}]
+
+
+
+}

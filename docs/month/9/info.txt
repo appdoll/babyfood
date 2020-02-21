@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝9个月辅食添加",
+	"desc1": "除继续熟悉各种食物的新味道和感觉外，还应该逐渐改变食物的质感和颗粒大小，逐渐从泥糊状食物向固体食物过渡，使辅食取代一顿奶而成为独立的一餐。\n谷类：饼干、馒头、米粥（大米或小米）、杂粮粥、烂面条。\n蔬菜：菠菜、白菜、萝卜、胡萝卜、西红柿。\n水果：苹果、香蕉、西瓜、桃汁。",
+	"title2": "宝宝9个月营养提示",
+	"desc2": "此月为断奶作准备，宝宝的全天饮食应各类具备，营养搭配，至少有两餐以辅食为主，不要偏食。每周加一种新的肉类食物，让婴儿用手，取食切成小块的水果、面包等。水、果汁、土豆泥、豆腐、菜汤、婴儿饼干、米糊、米粉、面条、鱼松、肉松、鱼汤、肉末等各类辅食均可给予，制作上更进一步复杂化，向断奶婴儿发展。但刺激性食物、坚果、太甜、太腻、太咸的食物不宜喂食。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn.png",
+		"title": "西兰花鲈鱼泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/xlhlyn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/yczrn.png",
+		"title": "油菜猪肉泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/yczrn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn.png",
+		"title": "西葫芦白菜鸡肉泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/xhlbcjrn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn.png",
+		"title": "西蓝花鸡肉泥",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/xlhjrn/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/zsxmh.png",
+		"title": "紫薯小迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/zsxmh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/9/syxmh.png",
+		"title": "山药小迷糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/9/syxmh/info.txt"
+	}]
+
+}

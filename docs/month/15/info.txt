@@ -1,0 +1,32 @@
+{
+	"title1": "宝宝15个月辅食添加",
+	"desc1": "三文鱼营养丰富，富含不饱和脂肪酸，鱼肉中的蛋白质含有18种氨基酸（其中包括人体必需的8种氨基酸），且蛋白质含量明显高于其他鱼类 。此外，三文鱼还富含多种矿物质（如钙、磷、镁等）三文鱼营养丰富，富含不饱和脂肪酸，鱼肉中的蛋白质含有18种氨基酸（其中包括人体必需的8种氨基酸），且蛋白质含量明显高于其他鱼类 。此外，三文鱼还富含多种矿物质（如钙、磷、镁等）",
+	"title2": "宝宝15个月营养提示",
+	"desc2": "1岁3个月宝宝膳食安排原则是保证足够的营养，并从以奶为主的饮食过渡到成人膳食。为宝宝选择的食物必须含有丰富的营养素，要重视动物蛋白和豆类的补充。特别应补充一定量的牛奶，但一般不超过800升，以保证优质蛋白质的供应。多吃蔬菜、水果，此外，粗粮细粮都要吃，可以避免维生素B1缺乏症。主食可以吃软米饭、粥、小馒头、小馄饨、小饺子、小包子等，吃得不太多也没有关系，每天的摄入量在150克左右即可。",
+	"foodList": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/hlbxyz.png",
+		"title": "胡萝卜鳕鱼粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/hlbxyz/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/ngymh.png",
+		"title": "南瓜玉米糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/ngymh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/blbmfh.png",
+		"title": "白萝卜米粉糊",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/blbmfh/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xgyrm.png",
+		"title": "香菇鸭肉面",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/xgyrm/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/yrlom.png",
+		"title": "鸭肉莲藕面",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/yrlom/info.txt"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz.png",
+		"title": "西红柿鸡肝粥",
+		"configUrl": "https://springmob.github.io/babyfood/month/15/xhsjgz/info.txt"
+	}]
+
+}

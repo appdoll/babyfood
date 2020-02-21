@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/1.png",
+		"desc": "红薯含有膳食纤维、胡萝卜素、维生素A、B、C、E及钾、铁、铜、硒、钙等，营养价值很高，是世界卫生组织评选出来的“十大最佳蔬菜”的冠军，多吃牛奶番薯泥可以有效补充人体的膳食纤维和维生素"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/2.png",
+		"desc": "准备食材：红薯1块、配方奶粉1勺或母乳少许"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/3.png",
+		"desc": "步骤1：将红薯洗净去皮。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/4.png",
+		"desc": "步骤2：将红薯蒸熟，放进搅拌机内搅拌成泥状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/5.png",
+		"desc": "步骤3：将奶粉冲调好。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/6.png",
+		"desc": "步骤4：奶粉冲调好后倒入红薯泥中"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/7.png",
+		"desc": "步骤5：再次用搅拌机搅拌均匀即可。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/4/nnfsn/8.png",
+		"desc": "步骤6：把搅拌好的红薯泥装盘即可"
+	}]
+
+
+
+}

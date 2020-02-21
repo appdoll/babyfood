@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/1.png",
+		"desc": "豌豆中含有丰富的植物蛋白质和维生素，胡萝卜则含有可在体内转化为维生素A的胡萝卜素，能提高宝宝的免疫力"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/2.png",
+		"desc": "食材：胡萝卜1/3根、豌豆50克、婴儿米粉10克、温开水60毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/3.png",
+		"desc": "做法：1、将胡萝卜洗净去皮，切薄片。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/4.png",
+		"desc": "2、将胡萝卜片放入蒸锅中，蒸熟。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/5.png",
+		"desc": "3、将豌豆洗干净；锅中烧开水，放入豌豆煮烂后，捞出，备用。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/6.png",
+		"desc": "4、将胡萝卜片放入搅拌机中，加入少许温开水，搅打成胡萝卜泥；再将豌豆放入搅拌机中，加入少许温开水，搅打成豌豆泥。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/7.png",
+		"desc": "5、将胡萝卜泥和豌豆泥过滤勺，取滤后的部分。"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/3sui/hlbwdn/8.png",
+		"desc": "6、将60毫升70℃左右的温开水倒入米粉中，边倒边搅拌，让米粉和水充分接触，调成糊状；用宝宝勺各舀一勺胡萝卜泥和豌豆泥拌入米糊中，喂养时搅拌均匀即可。"
+	}]
+
+
+
+}

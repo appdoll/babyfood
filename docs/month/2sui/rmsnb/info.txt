@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/1.png",
+		"desc": "土豆的营养价值非常高，含有丰富的维生素B1、B2、B6和泛酸等B群维生素及大量的优质纤维素，还含有微量元素、氨基酸、蛋白质、脂肪和优质淀粉等营养元素，并有和胃健脾、有益健康"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/2.png",
+		"desc": "准备食材：猪肉肉末35克、土豆半个、胡萝卜10克、食用油少许"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/3.png",
+		"desc": "步骤1：将土豆去皮，洗干净之后，放入蒸锅中，蒸熟后取出，压成土豆泥"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/4.png",
+		"desc": "步骤2：将胡萝卜洗净，去皮，切碎，然后放入蒸锅中蒸熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/5.png",
+		"desc": "步骤3：将土豆泥、胡萝卜碎和肉末放入碗中，拌匀"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/6.png",
+		"desc": "步骤4：将土豆胡萝卜肉末捏成小圆饼的形状"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/7.png",
+		"desc": "步骤5：热油锅，放入小圆饼，煎到一面呈现金黄，再翻面煎，将土豆饼煎熟"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/2sui/rmsnb/8.png",
+		"desc": "步骤6：将煎熟的薯饼装入盘中即可"
+	}]
+
+
+
+}

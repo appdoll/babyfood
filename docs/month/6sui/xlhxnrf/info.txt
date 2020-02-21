@@ -1,0 +1,30 @@
+{
+	"data": [{
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/1.png",
+		"desc": "虾含有丰富的钙元素，宝宝吃虾可以补充钙物质，有助于宝宝的骨骼发展和牙齿发育。西兰花则含有膳食纤维，有助于预防和缓解便秘。在给宝宝尝试这道西兰花虾泥软面之前，要先确保宝宝已分别吃过虾和西兰花，且无过敏等不适，则可以尝试混合食材"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/2.png",
+		"desc": "准备食材：米饭1/3饭碗、虾1只、西兰花3小朵、清水100毫升"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/3.png",
+		"desc": "步骤1：将西兰花放入淡盐水中浸泡约15分钟，然后用流水冲洗干净"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/4.png",
+		"desc": "步骤2：烧开一锅水，将西兰花放入略微焯烫，然后捞起，剁碎备用"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/5.png",
+		"desc": "步骤3：将虾洗干净，去掉虾壳、虾头，挑掉虾线，剁碎"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/6.png",
+		"desc": "步骤4：取一口小锅，倒入100毫升的清水，然后倒入米饭"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/7.png",
+		"desc": "步骤5：然后倒入西兰花碎和虾末"
+	}, {
+		"imgUrl": "https://springmob.github.io/babyfood/month/6sui/xlhxnrf/8.png",
+		"desc": "步骤6：将食材熬煮到软烂的状态，即可出锅"
+	}]
+
+
+
+}
